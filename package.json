@@ -1,0 +1,53 @@
+{
+  "name": "cliffs-campaign-board",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "electron/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "companion": "node scripts/local-companion-server.mjs",
+    "electron:dev": "vite build && electron .",
+    "electron:build": "vite build && electron-builder",
+    "electron:pack": "vite build && electron-builder --dir"
+  },
+  "dependencies": {
+    "framer-motion": "^12.38.0",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.4",
+    "@vitejs/plugin-react": "^6.0.1",
+    "concurrently": "^9.1.2",
+    "electron": "^36.3.1",
+    "electron-builder": "^26.0.12",
+    "tailwindcss": "^4.2.4",
+    "vite": "^8.0.10"
+  },
+  "build": {
+    "appId": "com.il2-cliffs.campaign-board",
+    "productName": "Cliffs Campaign Board",
+    "asar": false,
+    "win": {
+      "target": [{ "target": "nsis", "arch": ["x64"] }],
+      "requestedExecutionLevel": "asInvoker"
+    },
+    "nsis": {
+      "oneClick": true,
+      "perMachine": false,
+      "createDesktopShortcut": true
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*",
+      "scripts/local-companion-server.mjs",
+      "package.json"
+    ],
+    "directories": {
+      "output": "release"
+    }
+  }
+}

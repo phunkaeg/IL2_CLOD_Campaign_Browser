@@ -1,0 +1,9 @@
+{
+  "clodInstallDir": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz",
+  "clodDocumentsDir": "%USERPROFILE%\\Documents\\1C SoftClub\\il-2 sturmovik cliffs of dover",
+  "campaignRoot": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign",
+  "campaignTitle": "",
+  "pilotLogDir": "%USERPROFILE%\\Documents\\1C SoftClub\\il-2 sturmovik cliffs of dover\\CampaignBoard",
+  "autoWriteSrcu": false,
+  "serverPassword": ""
+}

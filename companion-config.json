@@ -1,0 +1,15 @@
+{
+  "clodInstallDir": "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\",
+  "clodDocumentsDir": "C:\\Users\\meise\\OneDrive\\Documents\\1C SoftClub\\il-2 sturmovik cliffs of dover",
+  "campaignRoot": "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\tobruk\\mission\\campaign\\campaign02_Gravity_5_July",
+  "campaignTitle": "",
+  "pilotLogDir": "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\CampaignBoard",
+  "pilotLogPath": "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\CampaignBoard\\events.jsonl",
+  "mapImagePath": "auto",
+  "mapWidth": 0,
+  "mapHeight": 0,
+  "autoSelectMap": false,
+  "assetMode": "reference",
+  "autoWriteSrcu": false,
+  "serverPassword": ""
+}

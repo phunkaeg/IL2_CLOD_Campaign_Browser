@@ -1,0 +1,3756 @@
+{
+  "title": "Their Greatest Challenge",
+  "profile": "",
+  "variants": [],
+  "period": "1940-07-17 to 1940-08-18",
+  "generatedAt": "2026-04-28T07:36:23.534Z",
+  "sourceRoot": "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\",
+  "map": {
+    "id": "dover",
+    "image": "/strait_of_dover_map.jpg",
+    "baseWidth": 2048,
+    "baseHeight": 1798,
+    "width": 3993,
+    "height": 3507,
+    "locked": true,
+    "note": "Dover/Channel theatre map selected from campaign path/title.",
+    "calibrationPoints": [
+      {
+        "name": "Hawkinge",
+        "pixelX": 2457,
+        "pixelY": 1053,
+        "side": "RAF"
+      },
+      {
+        "name": "St. Inglevert",
+        "pixelX": 2856,
+        "pixelY": 1317,
+        "side": "Luftwaffe"
+      },
+      {
+        "name": "Pihen-lès-Guînes",
+        "pixelX": 2866,
+        "pixelY": 1297,
+        "side": "Luftwaffe"
+      },
+      {
+        "name": "Folkestone",
+        "pixelX": 2464,
+        "pixelY": 1100,
+        "side": "RAF"
+      },
+      {
+        "name": "Biggin Hill",
+        "pixelX": 1677,
+        "pixelY": 819,
+        "side": "RAF"
+      }
+    ],
+    "gameCalibration": [
+      {
+        "name": "Hawkinge",
+        "gameX": 234931.02,
+        "gameY": 232454.51,
+        "pixelX": 2457,
+        "pixelY": 1053
+      },
+      {
+        "name": "Pihen-lès-Guînes",
+        "gameX": 277141.95,
+        "gameY": 206459.2,
+        "pixelX": 2866,
+        "pixelY": 1297
+      }
+    ]
+  },
+  "days": [
+    {
+      "date": "1940-07-17",
+      "title": "Their Greatest Challenge",
+      "summary": "Date: 17/7/1940.\r\n\r\nTime: 1320 hours.\r\n\r\nWeather: medium clouds at 700m.\r\n\r\nWind speed: 3m/s from 17 degrees.\r\n\r\nSituation: while France has fallen, Britain has still not surrendered. As a result, we are probing their defences in preparation for a campaign against them.\r\n\r\nMission: patrol the English coast for enemy aircraft.\r\n\r\nExecution: fly at 300km/h at an altitude of 7000m. Fly to Le Havre, then continue on to England. Patrol from Eastbourne to Brighton to Selsey and back. Engage and destroy enemy aircraft on sight if you find yourself in a favourable position. Disengage if the enemy has the advantage. Land at Le Havre Octeville.\r\n\r\nYour first priority is the protection of your own life",
+      "weather": "Weather: medium clouds at 700m.\r\n\r\nWind speed: 3m/s from 17 degrees.\r\n\r\nSituation: while France has fallen, Britain has still not surrendered. As a result, we are probing their defences in preparation for a campaign against them.\r\n\r\nMission: patrol the English coast for enemy aircraft.\r\n\r\nExecution: fly at 300km/h at an altitude of 7000m. Fly to Le Havre, then continue on to England. Patrol from Eastbourne to Brighton to Selsey and back. Engage and destroy enemy aircraft on sight if you find yourself in a favourable position. Disengage if the enemy has the advantage. Land at Le Havre Octeville.\r\n\r\nYour",
+      "missions": [
+        {
+          "date": "1940-07-17",
+          "time": "1320",
+          "title": "Mission 1: Date: 17/7/1940 · Patrol",
+          "chapterTitle": "campaign03_2r",
+          "type": "Patrol",
+          "briefing": "Date: 17/7/1940.\r\n\r\nTime: 1320 hours.\r\n\r\nWeather: medium clouds at 700m.\r\n\r\nWind speed: 3m/s from 17 degrees.\r\n\r\nSituation: while France has fallen, Britain has still not surrendered. As a result, we are probing their defences in preparation for a campaign against them.\r\n\r\nMission: patrol the English coast for enemy aircraft.\r\n\r\nExecution: fly at 300km/h at an altitude of 7000m. Fly to Le Havre, then continue on to England. Patrol from Eastbourne to Brighton to Selsey and back. Engage and destroy enemy aircraft on sight if you find yourself in a favourable position. Disengage if the enemy has the advantage. Land at Le Havre Octeville.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is the destruction of enemy aircraft.",
+          "weather": "Weather: medium clouds at 700m.\r\n\r\nWind speed: 3m/s from 17 degrees.\r\n\r\nSituation: while France has fallen, Britain has still not surrendered. As a result, we are probing their defences in preparation for a campaign against them.\r\n\r\nMission: patrol the English coast for enemy aircraft.\r\n\r\nExecution: fly at 300km/h at an altitude of 7000m. Fly to Le Havre, then continue on to England. Patrol from Eastbourne to Brighton to Selsey and back. Engage and destroy enemy aircraft on sight if you find yourself in a favourable position. Disengage if the enemy has the advantage. Land at Le Havre Octeville.\r\n\r\nYour",
+          "playable": [
+            {
+              "side": "Luftwaffe",
+              "unit": "BoB_LW_JG2_I.32",
+              "id": "BoB_LW_JG2_I.32",
+              "airGroupId": "BoB_LW_JG2_I.32",
+              "aircraft": "Bf 109E-3",
+              "role": "Patrol",
+              "description": "Date: 17/7/1940.\r\n\r\nTime: 1320 hours.\r\n\r\nWeather: medium clouds at 700m.\r\n\r\nWind speed: 3m/s from 17 degrees.\r\n\r\nSituation: while France has fallen, Britain has still not surrendered. As a result, we are probing their defences in preparation for a campaign against them.\r\n\r\nMission: patrol the English coast for enemy aircraft.\r\n\r\nExecution: fly at 300km/h at an altitude of 7000m. Fly to Le Havre, then continue on to England. Patrol from Eastbourne to Brighton to Selsey and back. Engage and destroy enemy aircraft on sight if you find yourself in a favourable position. Disengage if the enemy has the advantage. Land at Le Havre Octeville.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is the destruction of enemy aircraft."
+            }
+          ],
+          "routes": [
+            {
+              "id": "BoB_LW_JG2_I.32",
+              "airGroupId": "BoB_LW_JG2_I.32",
+              "briefing": "BoB_LW_JG2_I.32",
+              "unit": "BoB_LW_JG2_I.32",
+              "side": "Luftwaffe",
+              "aircraft": "Bf 109E-3",
+              "rawAircraft": "Bf-109E-3",
+              "formation": "FINGERFOUR",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 208142.15,
+                  "y": 10090.75,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 156903.11,
+                  "y": 63043.09,
+                  "alt": 7000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 177482.87,
+                  "y": 186572.6,
+                  "alt": 7000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 140141.91,
+                  "y": 193818.58,
+                  "alt": 7000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 103318.67,
+                  "y": 185486.32,
+                  "alt": 7000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 140052.32,
+                  "y": 191757.92,
+                  "alt": 7000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 174463.33,
+                  "y": 185411.2,
+                  "alt": 7000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 163968.19,
+                  "y": 144959.14,
+                  "alt": 7000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 145164.83,
+                  "y": 68247.86,
+                  "alt": 3000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 157343.26,
+                  "y": 57861.03,
+                  "alt": 3000,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_64Sqn_Early.03",
+              "airGroupId": "BoB_RAF_F_64Sqn_Early.03",
+              "briefing": "BoB_RAF_F_64Sqn_Early.03",
+              "unit": "BoB_RAF_F_64Sqn_Early.03",
+              "side": "RAF",
+              "aircraft": "SpitfireMkIa 100oct",
+              "rawAircraft": "SpitfireMkIa_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 146534.78,
+                  "y": 251030.94,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 196774.85,
+                  "y": 201517.34,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 173374.47,
+                  "y": 187357.12,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 134694.24,
+                  "y": 196685.02,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 172884.8,
+                  "y": 185398.45,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 197723.7,
+                  "y": 200258.78,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 173018.28,
+                  "y": 183397.5,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 133743.07,
+                  "y": 195544.39,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 145297.35,
+                  "y": 242573.95,
+                  "alt": 3048,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 146632.29,
+                  "y": 251417.94,
+                  "alt": 3048,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            }
+          ],
+          "slides": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "01.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 1\r\n\r\nBritain's refusal to surrender has done little to dampen the staffel's spirits. Almost everyone is eager for the campaign that is undoubtedly soon to begin, and there's little doubt among them that the war will be over soon.\r\n\r\nDespite my doubts, I sometimes think that perhaps they're right. After all, we have already defeated Poland, Denmark, Norway, the Netherlands, Belgium, and France. Perhaps this war will be over by Christmas?\r\n\r\nBut then I remember the kings and emperors who failed to invade England in the past, and I begin to doubt again.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C01.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE3.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE3.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE3.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE3.jpg"
+            }
+          ],
+          "images": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "01.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 1\r\n\r\nBritain's refusal to surrender has done little to dampen the staffel's spirits. Almost everyone is eager for the campaign that is undoubtedly soon to begin, and there's little doubt among them that the war will be over soon.\r\n\r\nDespite my doubts, I sometimes think that perhaps they're right. After all, we have already defeated Poland, Denmark, Norway, the Netherlands, Belgium, and France. Perhaps this war will be over by Christmas?\r\n\r\nBut then I remember the kings and emperors who failed to invade England in the past, and I begin to doubt again.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C01.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE3.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE3.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE3.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE3.jpg"
+            }
+          ],
+          "sourceFiles": [
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\01.briefing",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\01.mis",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\01.cs"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "1940-07-18",
+      "title": "Their Greatest Challenge — 1940-07-18",
+      "summary": "Date: 18/7/1940.\r\n\r\nTime: 0610 hours.\r\n\r\nWeather: medium clouds at 500m.\r\n\r\nWind speed: 1m/s from 47 degrees.\r\n\r\nSituation: a British tanker convoy is heading for Southampton, and should be somewhere between Selsey and Bembridge now.\r\n\r\nMission: escort Stukas of 9./StG 2 as they attack the convoy.\r\n\r\nExecution: fly at 3500m (500m above the Stukas) and 300km/h. Meet the Stukas in grid N-4. After they attack the convoy, the Stukas will RTB. Escort them until they are halfway back across the Channel. Land at Querqueville.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is",
+      "weather": "Weather: medium clouds at 500m.\r\n\r\nWind speed: 1m/s from 47 degrees.\r\n\r\nSituation: a British tanker convoy is heading for Southampton, and should be somewhere between Selsey and Bembridge now.\r\n\r\nMission: escort Stukas of 9./StG 2 as they attack the convoy.\r\n\r\nExecution: fly at 3500m (500m above the Stukas) and 300km/h. Meet the Stukas in grid N-4. After they attack the convoy, the Stukas will RTB. Escort them until they are halfway back across the Channel. Land at Querqueville.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and airc",
+      "missions": [
+        {
+          "date": "1940-07-18",
+          "time": "0610",
+          "title": "Mission 2: Date: 18/7/1940 · Escort",
+          "chapterTitle": "campaign03_2r",
+          "type": "Convoy Battle",
+          "briefing": "Date: 18/7/1940.\r\n\r\nTime: 0610 hours.\r\n\r\nWeather: medium clouds at 500m.\r\n\r\nWind speed: 1m/s from 47 degrees.\r\n\r\nSituation: a British tanker convoy is heading for Southampton, and should be somewhere between Selsey and Bembridge now.\r\n\r\nMission: escort Stukas of 9./StG 2 as they attack the convoy.\r\n\r\nExecution: fly at 3500m (500m above the Stukas) and 300km/h. Meet the Stukas in grid N-4. After they attack the convoy, the Stukas will RTB. Escort them until they are halfway back across the Channel. Land at Querqueville.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is the protection of the Stukas.",
+          "weather": "Weather: medium clouds at 500m.\r\n\r\nWind speed: 1m/s from 47 degrees.\r\n\r\nSituation: a British tanker convoy is heading for Southampton, and should be somewhere between Selsey and Bembridge now.\r\n\r\nMission: escort Stukas of 9./StG 2 as they attack the convoy.\r\n\r\nExecution: fly at 3500m (500m above the Stukas) and 300km/h. Meet the Stukas in grid N-4. After they attack the convoy, the Stukas will RTB. Escort them until they are halfway back across the Channel. Land at Querqueville.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and airc",
+          "playable": [
+            {
+              "side": "Luftwaffe",
+              "unit": "BoB_LW_JG2_I.36",
+              "id": "BoB_LW_JG2_I.36",
+              "airGroupId": "BoB_LW_JG2_I.36",
+              "aircraft": "Bf 109E-3",
+              "role": "Convoy Battle",
+              "description": "Date: 18/7/1940.\r\n\r\nTime: 0610 hours.\r\n\r\nWeather: medium clouds at 500m.\r\n\r\nWind speed: 1m/s from 47 degrees.\r\n\r\nSituation: a British tanker convoy is heading for Southampton, and should be somewhere between Selsey and Bembridge now.\r\n\r\nMission: escort Stukas of 9./StG 2 as they attack the convoy.\r\n\r\nExecution: fly at 3500m (500m above the Stukas) and 300km/h. Meet the Stukas in grid N-4. After they attack the convoy, the Stukas will RTB. Escort them until they are halfway back across the Channel. Land at Querqueville.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is the protection of the Stukas."
+            }
+          ],
+          "routes": [
+            {
+              "id": "BoB_LW_JG2_I.36",
+              "airGroupId": "BoB_LW_JG2_I.36",
+              "briefing": "BoB_LW_JG2_I.36",
+              "unit": "BoB_LW_JG2_I.36",
+              "side": "Luftwaffe",
+              "aircraft": "Bf 109E-3",
+              "rawAircraft": "Bf-109E-3",
+              "formation": "FINGERFOUR",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 157329.27,
+                  "y": 57874.67,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 138451.08,
+                  "y": 56612.31,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG2_I.37 1"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 93261.88,
+                  "y": 180236.38,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG2_I.37 2"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 85394.27,
+                  "y": 185497.34,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG2_I.37 3"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 68835.2,
+                  "y": 134808.06,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG2_I.37 4"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 31356.72,
+                  "y": 80036.58,
+                  "alt": 1750,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 27830.85,
+                  "y": 72617.95,
+                  "alt": 1750,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_LW_StG2_I.37",
+              "airGroupId": "BoB_LW_StG2_I.37",
+              "briefing": "BoB_LW_StG2_I.37",
+              "unit": "BoB_LW_StG2_I.37",
+              "side": "Luftwaffe",
+              "aircraft": "Ju-87B-2",
+              "rawAircraft": "Ju-87B-2",
+              "formation": "VIC",
+              "skill": "1 0.74 0.84 0.63 0.84 0.84 0.74 0.74",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 111986.28,
+                  "y": 62057.05,
+                  "alt": 3000,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 138451.22,
+                  "y": 57118.34,
+                  "alt": 3000,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 93264.01,
+                  "y": 180150.22,
+                  "alt": 3000,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "GATTACK_TARG",
+                  "x": 85469.2,
+                  "y": 185461.76,
+                  "alt": 3000,
+                  "speed": 280,
+                  "extra": "0_Chief 1"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 68920.54,
+                  "y": 134767.17,
+                  "alt": 250,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 50800.59,
+                  "y": 77495.17,
+                  "alt": 250,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 43520.25,
+                  "y": 70376.61,
+                  "alt": 250,
+                  "speed": 280,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_145Sqn_Early.03",
+              "airGroupId": "BoB_RAF_F_145Sqn_Early.03",
+              "briefing": "BoB_RAF_F_145Sqn_Early.03",
+              "unit": "BoB_RAF_F_145Sqn_Early.03",
+              "side": "RAF",
+              "aircraft": "Hurricane Mk I 100oct",
+              "rawAircraft": "HurricaneMkI_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 104876.29,
+                  "y": 198299.65,
+                  "alt": 500,
+                  "speed": 526.1,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_BOMBERS",
+                  "x": 94165.87,
+                  "y": 181039.98,
+                  "alt": 3962,
+                  "speed": 526.1,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_BOMBERS",
+                  "x": 101385.52,
+                  "y": 158476.57,
+                  "alt": 3962,
+                  "speed": 526.1,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 97674.21,
+                  "y": 197145.68,
+                  "alt": 1981,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 101409.13,
+                  "y": 199805.39,
+                  "alt": 1981,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_43Sqn_Early.03",
+              "airGroupId": "BoB_RAF_F_43Sqn_Early.03",
+              "briefing": "BoB_RAF_F_43Sqn_Early.03",
+              "unit": "BoB_RAF_F_43Sqn_Early.03",
+              "side": "RAF",
+              "aircraft": "Hurricane Mk I 100oct",
+              "rawAircraft": "HurricaneMkI_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 69908.89,
+                  "y": 169685.55,
+                  "alt": 6096,
+                  "speed": 526.1,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 91772.26,
+                  "y": 180656.57,
+                  "alt": 6096,
+                  "speed": 526.1,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 100176.21,
+                  "y": 158545.24,
+                  "alt": 6096,
+                  "speed": 526.1,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 101044.95,
+                  "y": 195696.5,
+                  "alt": 3048,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 104644.55,
+                  "y": 199261.81,
+                  "alt": 3048,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            }
+          ],
+          "slides": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "02.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 2\r\n\r\nThe Spitfire is living up to the reputation it gained over Dunkerque, if not exceeding it. The only major problem it seems to have is its light armament of nothing but machine guns. But even if we don't get immediately shot down, we're still in danger - the wide expanse of the channel makes us all the more vulnerable to a leaking fuel tank or water radiator. The Seenotdienst is there to fish us out if we have to ditch, but even then, the RAF have been known to shoot down our rescue planes.\r\n\r\nWe've gotten reports that a British convoy will be passing near the Isle of Wight tomorrow morning. We're going to escort some Stukas while they attack it, and hopefully not end up in the drink.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C02.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE3.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE3.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE3.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE3.jpg"
+            }
+          ],
+          "images": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "02.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 2\r\n\r\nThe Spitfire is living up to the reputation it gained over Dunkerque, if not exceeding it. The only major problem it seems to have is its light armament of nothing but machine guns. But even if we don't get immediately shot down, we're still in danger - the wide expanse of the channel makes us all the more vulnerable to a leaking fuel tank or water radiator. The Seenotdienst is there to fish us out if we have to ditch, but even then, the RAF have been known to shoot down our rescue planes.\r\n\r\nWe've gotten reports that a British convoy will be passing near the Isle of Wight tomorrow morning. We're going to escort some Stukas while they attack it, and hopefully not end up in the drink.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C02.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE3.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE3.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE3.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE3.jpg"
+            }
+          ],
+          "sourceFiles": [
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\02.briefing",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\02.mis",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\02.cs"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "1940-08-12",
+      "title": "Their Greatest Challenge — 1940-08-12",
+      "summary": "Date: 12/8/1940.\r\n\r\nTime: 0900 hours.\r\n\r\nWeather: light clouds at 900m.\r\n\r\nWind speed: 1m/s from 137 degrees.\r\n\r\nSituation: a large-scale air attack involving KG 51, ZG 2, ZG 76, and JG 53 has been planned against Portsmouth and the Ventnor RDF station at midday. \r\n\r\nMission: patrol around Ventnor and Portsmouth. Draw the RAF into combat so that the attack will face less opposition when it arrives.\r\n\r\nExecution: patrol over the south-east tip of the Isle of Wight and Selsey at 6000m, at a speed of 300km/h. Engage any enemy fighters you see. Other enemy aircraft are to be ignored. Land at Le Havre Octeville when you run out of fuel or ammunition.\r\n\r\nYour first priority is the protection of yo",
+      "weather": "Weather: light clouds at 900m.\r\n\r\nWind speed: 1m/s from 137 degrees.\r\n\r\nSituation: a large-scale air attack involving KG 51, ZG 2, ZG 76, and JG 53 has been planned against Portsmouth and the Ventnor RDF station at midday. \r\n\r\nMission: patrol around Ventnor and Portsmouth. Draw the RAF into combat so that the attack will face less opposition when it arrives.\r\n\r\nExecution: patrol over the south-east tip of the Isle of Wight and Selsey at 6000m, at a speed of 300km/h. Engage any enemy fighters you see. Other enemy aircraft are to be ignored. Land at Le Havre Octeville when you run out of fuel or ammuniti",
+      "missions": [
+        {
+          "date": "1940-08-12",
+          "time": "0900",
+          "title": "Mission 3: Date: 12/8/1940 · Patrol",
+          "chapterTitle": "campaign03_2r",
+          "type": "Raid",
+          "briefing": "Date: 12/8/1940.\r\n\r\nTime: 0900 hours.\r\n\r\nWeather: light clouds at 900m.\r\n\r\nWind speed: 1m/s from 137 degrees.\r\n\r\nSituation: a large-scale air attack involving KG 51, ZG 2, ZG 76, and JG 53 has been planned against Portsmouth and the Ventnor RDF station at midday. \r\n\r\nMission: patrol around Ventnor and Portsmouth. Draw the RAF into combat so that the attack will face less opposition when it arrives.\r\n\r\nExecution: patrol over the south-east tip of the Isle of Wight and Selsey at 6000m, at a speed of 300km/h. Engage any enemy fighters you see. Other enemy aircraft are to be ignored. Land at Le Havre Octeville when you run out of fuel or ammunition.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is the destruction of enemy aircraft.",
+          "weather": "Weather: light clouds at 900m.\r\n\r\nWind speed: 1m/s from 137 degrees.\r\n\r\nSituation: a large-scale air attack involving KG 51, ZG 2, ZG 76, and JG 53 has been planned against Portsmouth and the Ventnor RDF station at midday. \r\n\r\nMission: patrol around Ventnor and Portsmouth. Draw the RAF into combat so that the attack will face less opposition when it arrives.\r\n\r\nExecution: patrol over the south-east tip of the Isle of Wight and Selsey at 6000m, at a speed of 300km/h. Engage any enemy fighters you see. Other enemy aircraft are to be ignored. Land at Le Havre Octeville when you run out of fuel or ammuniti",
+          "playable": [
+            {
+              "side": "Luftwaffe",
+              "unit": "JG2 I",
+              "id": "JG2 I",
+              "airGroupId": "BoB_LW_JG2_I.32",
+              "aircraft": "Bf 109E-4 Late",
+              "role": "Raid",
+              "description": "Date: 12/8/1940.\r\n\r\nTime: 0900 hours.\r\n\r\nWeather: light clouds at 900m.\r\n\r\nWind speed: 1m/s from 137 degrees.\r\n\r\nSituation: a large-scale air attack involving KG 51, ZG 2, ZG 76, and JG 53 has been planned against Portsmouth and the Ventnor RDF station at midday. \r\n\r\nMission: patrol around Ventnor and Portsmouth. Draw the RAF into combat so that the attack will face less opposition when it arrives.\r\n\r\nExecution: patrol over the south-east tip of the Isle of Wight and Selsey at 6000m, at a speed of 300km/h. Engage any enemy fighters you see. Other enemy aircraft are to be ignored. Land at Le Havre Octeville when you run out of fuel or ammunition.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is the destruction of enemy aircraft."
+            }
+          ],
+          "routes": [
+            {
+              "id": "BoB_RAF_F_601Sqn_Early.03",
+              "airGroupId": "BoB_RAF_F_601Sqn_Early.03",
+              "briefing": "BoB_RAF_F_601Sqn_Early.03",
+              "unit": "BoB_RAF_F_601Sqn_Early.03",
+              "side": "RAF",
+              "aircraft": "Hurricane Mk I 100oct",
+              "rawAircraft": "HurricaneMkI_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 104634.24,
+                  "y": 199356.83,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 164853.71,
+                  "y": 185710.71,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 100045.86,
+                  "y": 183077.15,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 71257.4,
+                  "y": 169396.68,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 99094.18,
+                  "y": 184623.64,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 164809.69,
+                  "y": 187110.64,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 98499.38,
+                  "y": 186289.09,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 70067.79,
+                  "y": 170467.33,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 91718.62,
+                  "y": 198185.15,
+                  "alt": 3048,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 104447.41,
+                  "y": 199493.72,
+                  "alt": 3048,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_LW_JG2_I.32",
+              "airGroupId": "BoB_LW_JG2_I.32",
+              "briefing": "1",
+              "unit": "JG2 I",
+              "side": "Luftwaffe",
+              "aircraft": "Bf 109E-4 Late",
+              "rawAircraft": "Bf-109E-4_Late",
+              "formation": "FINGERFOUR",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 27924.6,
+                  "y": 72647.78,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 70733.98,
+                  "y": 169962.68,
+                  "alt": 6000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 97939.36,
+                  "y": 185123.73,
+                  "alt": 6000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 71050.94,
+                  "y": 169223.11,
+                  "alt": 6000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 98361.97,
+                  "y": 184384.17,
+                  "alt": 6000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 71526.37,
+                  "y": 168430.73,
+                  "alt": 6000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 98943.05,
+                  "y": 183433.3,
+                  "alt": 6000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 154544.13,
+                  "y": 63594.18,
+                  "alt": 3000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 157187.03,
+                  "y": 57848.74,
+                  "alt": 3000,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            }
+          ],
+          "slides": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "03.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 3\r\n\r\nSomeone finally found this damn journal in one of the hangars, and thankfully only checked to see whose it was. I must've left it there before a sortie and returned too exhausted to care or remember where I left it. I can't let that happen again, or I might get reported for wehrkraftzersetzung - after all, I'm not exactly the most optimistic person.\r\n\r\nAnyway, after more than a month of testing the RAF and defending attacks against convoys and coastal targets, we're finally going to start attacking the RAF's airfields and their RDF stations. The sooner that air superiority can be achieved, the sooner that the invasion can begin and the war can end.\r\n\r\nWe're also flying the latest model of the Bf 109, the E-4. It has an automatic prop pitch control system, giving us one less thing to worry about during combat. It also has the new MG FF/M cannons, which can fire an improved 20mm round called the minengeschoss. There's also armour for us, and a new canopy design.\r\n\r\nHowever, I cannot allow myself to become overconfident just because of the E-4's improvements. The RAF's fighters are still dangerous, the Channel is as wide as ever, and the fighting is going to be fiercer from now on. If I'm not careful, I might again find myself forgetting where I left this journal.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C03.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "images": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "03.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 3\r\n\r\nSomeone finally found this damn journal in one of the hangars, and thankfully only checked to see whose it was. I must've left it there before a sortie and returned too exhausted to care or remember where I left it. I can't let that happen again, or I might get reported for wehrkraftzersetzung - after all, I'm not exactly the most optimistic person.\r\n\r\nAnyway, after more than a month of testing the RAF and defending attacks against convoys and coastal targets, we're finally going to start attacking the RAF's airfields and their RDF stations. The sooner that air superiority can be achieved, the sooner that the invasion can begin and the war can end.\r\n\r\nWe're also flying the latest model of the Bf 109, the E-4. It has an automatic prop pitch control system, giving us one less thing to worry about during combat. It also has the new MG FF/M cannons, which can fire an improved 20mm round called the minengeschoss. There's also armour for us, and a new canopy design.\r\n\r\nHowever, I cannot allow myself to become overconfident just because of the E-4's improvements. The RAF's fighters are still dangerous, the Channel is as wide as ever, and the fighting is going to be fiercer from now on. If I'm not careful, I might again find myself forgetting where I left this journal.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C03.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "sourceFiles": [
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\03.briefing",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\03.mis",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\03.cs"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "1940-08-13",
+      "title": "Their Greatest Challenge — 1940-08-13",
+      "summary": "Date: 13/8/1940.\r\n\r\nTime: 0535 hours.\r\n\r\nWeather: medium clouds at 500m.\r\n\r\nWind speed: 2m/s from 54 degrees.\r\n\r\nSituation: KG 54 will attack the RAF airfields at Odiham and Farnborough today.\r\n\r\nMission: escort Ju 88s of 2./KG 54 as they attack Odiham.\r\n\r\nExecution: after takeoff, climb to 4500m and rendezvous with 2./KG 54 over Le Havre. They will be the rear formation of Ju 88s. Escort them as they head north-north-west towards Petersfield. At this point, the bomber formation will break up, and 2./KG 54 will head north for Odiham. Continue escorting them until you are halfway back across the Channel. Land at Le Havre Octeville.\r\n\r\nYour first priority is the protection of your own life and",
+      "weather": "Weather: medium clouds at 500m.\r\n\r\nWind speed: 2m/s from 54 degrees.\r\n\r\nSituation: KG 54 will attack the RAF airfields at Odiham and Farnborough today.\r\n\r\nMission: escort Ju 88s of 2./KG 54 as they attack Odiham.\r\n\r\nExecution: after takeoff, climb to 4500m and rendezvous with 2./KG 54 over Le Havre. They will be the rear formation of Ju 88s. Escort them as they head north-north-west towards Petersfield. At this point, the bomber formation will break up, and 2./KG 54 will head north for Odiham. Continue escorting them until you are halfway back across the Channel. Land at Le Havre Octeville.\r\n\r\nYour fir",
+      "missions": [
+        {
+          "date": "1940-08-13",
+          "time": "0535",
+          "title": "Mission 4: Date: 13/8/1940 · Escort",
+          "chapterTitle": "campaign03_2r",
+          "type": "Raid",
+          "briefing": "Date: 13/8/1940.\r\n\r\nTime: 0535 hours.\r\n\r\nWeather: medium clouds at 500m.\r\n\r\nWind speed: 2m/s from 54 degrees.\r\n\r\nSituation: KG 54 will attack the RAF airfields at Odiham and Farnborough today.\r\n\r\nMission: escort Ju 88s of 2./KG 54 as they attack Odiham.\r\n\r\nExecution: after takeoff, climb to 4500m and rendezvous with 2./KG 54 over Le Havre. They will be the rear formation of Ju 88s. Escort them as they head north-north-west towards Petersfield. At this point, the bomber formation will break up, and 2./KG 54 will head north for Odiham. Continue escorting them until you are halfway back across the Channel. Land at Le Havre Octeville.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is the protection of the Ju 88s.",
+          "weather": "Weather: medium clouds at 500m.\r\n\r\nWind speed: 2m/s from 54 degrees.\r\n\r\nSituation: KG 54 will attack the RAF airfields at Odiham and Farnborough today.\r\n\r\nMission: escort Ju 88s of 2./KG 54 as they attack Odiham.\r\n\r\nExecution: after takeoff, climb to 4500m and rendezvous with 2./KG 54 over Le Havre. They will be the rear formation of Ju 88s. Escort them as they head north-north-west towards Petersfield. At this point, the bomber formation will break up, and 2./KG 54 will head north for Odiham. Continue escorting them until you are halfway back across the Channel. Land at Le Havre Octeville.\r\n\r\nYour fir",
+          "playable": [
+            {
+              "side": "Luftwaffe",
+              "unit": "BoB_LW_JG2_I.36",
+              "id": "BoB_LW_JG2_I.36",
+              "airGroupId": "BoB_LW_JG2_I.36",
+              "aircraft": "Bf 109E-4 Late",
+              "role": "Raid",
+              "description": "Date: 13/8/1940.\r\n\r\nTime: 0535 hours.\r\n\r\nWeather: medium clouds at 500m.\r\n\r\nWind speed: 2m/s from 54 degrees.\r\n\r\nSituation: KG 54 will attack the RAF airfields at Odiham and Farnborough today.\r\n\r\nMission: escort Ju 88s of 2./KG 54 as they attack Odiham.\r\n\r\nExecution: after takeoff, climb to 4500m and rendezvous with 2./KG 54 over Le Havre. They will be the rear formation of Ju 88s. Escort them as they head north-north-west towards Petersfield. At this point, the bomber formation will break up, and 2./KG 54 will head north for Odiham. Continue escorting them until you are halfway back across the Channel. Land at Le Havre Octeville.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is the protection of the Ju 88s."
+            }
+          ],
+          "routes": [
+            {
+              "id": "BoB_LW_JG2_I.36",
+              "airGroupId": "BoB_LW_JG2_I.36",
+              "briefing": "BoB_LW_JG2_I.36",
+              "unit": "BoB_LW_JG2_I.36",
+              "side": "Luftwaffe",
+              "aircraft": "Bf 109E-4 Late",
+              "rawAircraft": "Bf-109E-4_Late",
+              "formation": "FINGERFOUR",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 157331.34,
+                  "y": 57924.69,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 156072.03,
+                  "y": 61958.46,
+                  "alt": 4500,
+                  "speed": 300,
+                  "extra": "BoB_LW_KG54_I.27 1"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 90131.6,
+                  "y": 216401.73,
+                  "alt": 4500,
+                  "speed": 300,
+                  "extra": "BoB_LW_KG54_I.27 2"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 86966.04,
+                  "y": 242211.64,
+                  "alt": 4500,
+                  "speed": 300,
+                  "extra": "BoB_LW_KG54_I.27 3"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 90743.08,
+                  "y": 216899.63,
+                  "alt": 4500,
+                  "speed": 300,
+                  "extra": "BoB_LW_KG54_I.27 4"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 125155.57,
+                  "y": 135512.74,
+                  "alt": 4500,
+                  "speed": 300,
+                  "extra": "BoB_LW_KG54_I.27 5"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 155484.45,
+                  "y": 71434.79,
+                  "alt": 2250,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 157156.03,
+                  "y": 58062.16,
+                  "alt": 2250,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_LW_KG54_I.27",
+              "airGroupId": "BoB_LW_KG54_I.27",
+              "briefing": "BoB_LW_KG54_I.27",
+              "unit": "BoB_LW_KG54_I.27",
+              "side": "Luftwaffe",
+              "aircraft": "Ju-88A-1",
+              "rawAircraft": "Ju-88A-1",
+              "formation": "VIC3",
+              "skill": "1 0.74 0.84 0.63 0.84 0.84 0.74 0.74",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 182647.98,
+                  "y": 54642.2,
+                  "alt": 4000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 155820.23,
+                  "y": 62398.67,
+                  "alt": 4000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 90151.56,
+                  "y": 216368.84,
+                  "alt": 4000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "GATTACK_POINT",
+                  "x": 86343.11,
+                  "y": 242304.92,
+                  "alt": 4000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 90732.81,
+                  "y": 216660.45,
+                  "alt": 4000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 125150.02,
+                  "y": 135339.96,
+                  "alt": 4000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 265696.65,
+                  "y": 40196.93,
+                  "alt": 2000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 331384.31,
+                  "y": 26751.27,
+                  "alt": 2000,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_LW_KG54_I.17",
+              "airGroupId": "BoB_LW_KG54_I.17",
+              "briefing": "BoB_LW_KG54_I.17",
+              "unit": "BoB_LW_KG54_I.17",
+              "side": "Luftwaffe",
+              "aircraft": "Ju-88A-1",
+              "rawAircraft": "Ju-88A-1",
+              "formation": "VIC3",
+              "skill": "1 0.74 0.84 0.63 0.84 0.84 0.74 0.74",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 180807.61,
+                  "y": 55180.46,
+                  "alt": 4000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 155825.36,
+                  "y": 62378.53,
+                  "alt": 4000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 90139.21,
+                  "y": 216399.69,
+                  "alt": 4000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 91743.01,
+                  "y": 232150.49,
+                  "alt": 4500,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "GATTACK_POINT",
+                  "x": 99619.87,
+                  "y": 247453.02,
+                  "alt": 4000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 92822.07,
+                  "y": 217304.48,
+                  "alt": 4000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 128244.37,
+                  "y": 135641.02,
+                  "alt": 4000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 266630.22,
+                  "y": 42576.66,
+                  "alt": 2000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 331479.04,
+                  "y": 26930.54,
+                  "alt": 2000,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_LW_LG1_V.23",
+              "airGroupId": "BoB_LW_LG1_V.23",
+              "briefing": "BoB_LW_LG1_V.23",
+              "unit": "BoB_LW_LG1_V.23",
+              "side": "Luftwaffe",
+              "aircraft": "Bf-110C-4",
+              "rawAircraft": "Bf-110C-4",
+              "formation": "FINGERFOUR",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "ESCORT",
+                  "x": 180341.58,
+                  "y": 55299.38,
+                  "alt": 4500,
+                  "speed": 300,
+                  "extra": "BoB_LW_KG54_I.17 0"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 155823.49,
+                  "y": 62378.94,
+                  "alt": 4500,
+                  "speed": 300,
+                  "extra": "BoB_LW_KG54_I.17 1"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 90131.93,
+                  "y": 216428.45,
+                  "alt": 4500,
+                  "speed": 300,
+                  "extra": "BoB_LW_KG54_I.17 2"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 91660.27,
+                  "y": 232155.87,
+                  "alt": 4500,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 100014.23,
+                  "y": 247424.9,
+                  "alt": 4500,
+                  "speed": 300,
+                  "extra": "BoB_LW_KG54_I.17 4"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 92815.06,
+                  "y": 217714.91,
+                  "alt": 4500,
+                  "speed": 300,
+                  "extra": "BoB_LW_KG54_I.17 5"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 127986.1,
+                  "y": 135996.61,
+                  "alt": 4500,
+                  "speed": 300,
+                  "extra": "BoB_LW_KG54_I.17 6"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 54152.68,
+                  "y": 78149.62,
+                  "alt": 2250,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 43890.17,
+                  "y": 70410.66,
+                  "alt": 2250,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_43Sqn_Early.03",
+              "airGroupId": "BoB_RAF_F_43Sqn_Early.03",
+              "briefing": "BoB_RAF_F_43Sqn_Early.03",
+              "unit": "BoB_RAF_F_43Sqn_Early.03",
+              "side": "RAF",
+              "aircraft": "Hurricane Mk I 100oct",
+              "rawAircraft": "HurricaneMkI_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 104615.95,
+                  "y": 199324.87,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_BOMBERS",
+                  "x": 105521.95,
+                  "y": 192977.74,
+                  "alt": 4877,
+                  "speed": 526.1,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_BOMBERS",
+                  "x": 120373.37,
+                  "y": 143613.95,
+                  "alt": 4877,
+                  "speed": 526,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 107441.97,
+                  "y": 195756.7,
+                  "alt": 2438,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 104521.98,
+                  "y": 199177.26,
+                  "alt": 2438,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_601Sqn_Early.03",
+              "airGroupId": "BoB_RAF_F_601Sqn_Early.03",
+              "briefing": "BoB_RAF_F_601Sqn_Early.03",
+              "unit": "BoB_RAF_F_601Sqn_Early.03",
+              "side": "RAF",
+              "aircraft": "Hurricane Mk I 100oct",
+              "rawAircraft": "HurricaneMkI_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 104439.8,
+                  "y": 200552.11,
+                  "alt": 500,
+                  "speed": 526,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_BOMBERS",
+                  "x": 100787.74,
+                  "y": 190231.41,
+                  "alt": 4877,
+                  "speed": 526,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_BOMBERS",
+                  "x": 119947.29,
+                  "y": 143305.78,
+                  "alt": 4877,
+                  "speed": 526,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 106978.72,
+                  "y": 195823.12,
+                  "alt": 2438,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 104723.32,
+                  "y": 199690.85,
+                  "alt": 2438,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_64Sqn_Early.03",
+              "airGroupId": "BoB_RAF_F_64Sqn_Early.03",
+              "briefing": "BoB_RAF_F_64Sqn_Early.03",
+              "unit": "BoB_RAF_F_64Sqn_Early.03",
+              "side": "RAF",
+              "aircraft": "SpitfireMkIa 100oct",
+              "rawAircraft": "SpitfireMkIa_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 141423.49,
+                  "y": 196636.58,
+                  "alt": 6096,
+                  "speed": 569.71,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 107979.96,
+                  "y": 179201.09,
+                  "alt": 6096,
+                  "speed": 569.71,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 119093.82,
+                  "y": 145349.72,
+                  "alt": 6096,
+                  "speed": 569,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 144584.31,
+                  "y": 244660.67,
+                  "alt": 3048,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 146929.43,
+                  "y": 251084.27,
+                  "alt": 3048,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            }
+          ],
+          "slides": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "04.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 4\r\n\r\nOur offensive against Britain starts in earnest today. Instead of another fighter sweep or escorting another raid against a convoy, we're escorting bombers as they attack inland airfields. That's a problem for us, though. We'll have almost no margin for error, and any pilot who gets hit in their fuel tank or radiators will have a hard choice to make; crash land in England and become a POW, or risk a long flight back over the Channel in a plane that's falling apart. Frankly, I think I'd have a better chance of landing in front of Buckingham Palace than getting back to base in that situation.\r\n\r\nUnder such conditions, it's hard not to be pessimistic.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C04.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "images": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "04.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 4\r\n\r\nOur offensive against Britain starts in earnest today. Instead of another fighter sweep or escorting another raid against a convoy, we're escorting bombers as they attack inland airfields. That's a problem for us, though. We'll have almost no margin for error, and any pilot who gets hit in their fuel tank or radiators will have a hard choice to make; crash land in England and become a POW, or risk a long flight back over the Channel in a plane that's falling apart. Frankly, I think I'd have a better chance of landing in front of Buckingham Palace than getting back to base in that situation.\r\n\r\nUnder such conditions, it's hard not to be pessimistic.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C04.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "sourceFiles": [
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\04.briefing",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\04.mis",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\04.cs"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "1940-08-14",
+      "title": "Their Greatest Challenge — 1940-08-14",
+      "summary": "Date: 14/8/1940.\r\n\r\nTime: 1743 hours.\r\n\r\nWeather: light clouds at 600m.\r\n\r\nWind speed: 2m/s from 177 degrees.\r\n\r\nSituation: less than an hour ago, a Ju 88 was forced to ditch around 14km off the English coast between Brighton and Bognor Regis. A He 115 has been sent to recover the crew, and will require escort.\r\n\r\nMission: escort the He 115 as it searches for the Ju 88 crew.\r\n\r\nExecution: meet the He 115 just north-west of Le Havre. It will be at an altitude of 500m. Cover it at 1000m and 290km/h. It will only make a single sweep of the area to reduce the likelihood of contact with the enemy. Only engage the enemy if they move to attack the He 115. Return to Le Havre once the He 115 is halfw",
+      "weather": "Weather: light clouds at 600m.\r\n\r\nWind speed: 2m/s from 177 degrees.\r\n\r\nSituation: less than an hour ago, a Ju 88 was forced to ditch around 14km off the English coast between Brighton and Bognor Regis. A He 115 has been sent to recover the crew, and will require escort.\r\n\r\nMission: escort the He 115 as it searches for the Ju 88 crew.\r\n\r\nExecution: meet the He 115 just north-west of Le Havre. It will be at an altitude of 500m. Cover it at 1000m and 290km/h. It will only make a single sweep of the area to reduce the likelihood of contact with the enemy. Only engage the enemy if they move to attack the H",
+      "missions": [
+        {
+          "date": "1940-08-14",
+          "time": "1743",
+          "title": "Mission 5: Date: 14/8/1940 · Escort",
+          "chapterTitle": "campaign03_2r",
+          "type": "Raid",
+          "briefing": "Date: 14/8/1940.\r\n\r\nTime: 1743 hours.\r\n\r\nWeather: light clouds at 600m.\r\n\r\nWind speed: 2m/s from 177 degrees.\r\n\r\nSituation: less than an hour ago, a Ju 88 was forced to ditch around 14km off the English coast between Brighton and Bognor Regis. A He 115 has been sent to recover the crew, and will require escort.\r\n\r\nMission: escort the He 115 as it searches for the Ju 88 crew.\r\n\r\nExecution: meet the He 115 just north-west of Le Havre. It will be at an altitude of 500m. Cover it at 1000m and 290km/h. It will only make a single sweep of the area to reduce the likelihood of contact with the enemy. Only engage the enemy if they move to attack the He 115. Return to Le Havre once the He 115 is halfway through its return journey across the Channel.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is the protection of the He 115.",
+          "weather": "Weather: light clouds at 600m.\r\n\r\nWind speed: 2m/s from 177 degrees.\r\n\r\nSituation: less than an hour ago, a Ju 88 was forced to ditch around 14km off the English coast between Brighton and Bognor Regis. A He 115 has been sent to recover the crew, and will require escort.\r\n\r\nMission: escort the He 115 as it searches for the Ju 88 crew.\r\n\r\nExecution: meet the He 115 just north-west of Le Havre. It will be at an altitude of 500m. Cover it at 1000m and 290km/h. It will only make a single sweep of the area to reduce the likelihood of contact with the enemy. Only engage the enemy if they move to attack the H",
+          "playable": [
+            {
+              "side": "Luftwaffe",
+              "unit": "JG2 I",
+              "id": "JG2 I",
+              "airGroupId": "BoB_LW_JG2_I.32",
+              "aircraft": "Bf 109E-4 Late",
+              "role": "Raid",
+              "description": "Date: 14/8/1940.\r\n\r\nTime: 1743 hours.\r\n\r\nWeather: light clouds at 600m.\r\n\r\nWind speed: 2m/s from 177 degrees.\r\n\r\nSituation: less than an hour ago, a Ju 88 was forced to ditch around 14km off the English coast between Brighton and Bognor Regis. A He 115 has been sent to recover the crew, and will require escort.\r\n\r\nMission: escort the He 115 as it searches for the Ju 88 crew.\r\n\r\nExecution: meet the He 115 just north-west of Le Havre. It will be at an altitude of 500m. Cover it at 1000m and 290km/h. It will only make a single sweep of the area to reduce the likelihood of contact with the enemy. Only engage the enemy if they move to attack the He 115. Return to Le Havre once the He 115 is halfway through its return journey across the Channel.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is the protection of the He 115."
+            }
+          ],
+          "routes": [
+            {
+              "id": "BoB_LW_JG2_I.32",
+              "airGroupId": "BoB_LW_JG2_I.32",
+              "briefing": "1",
+              "unit": "JG2 I",
+              "side": "Luftwaffe",
+              "aircraft": "Bf 109E-4 Late",
+              "rawAircraft": "Bf-109E-4_Late",
+              "formation": "FINGERFOUR",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 157187.03,
+                  "y": 57848.74,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 148890.89,
+                  "y": 64237.05,
+                  "alt": 1000,
+                  "speed": 300,
+                  "extra": "g01.11 1"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 145271.17,
+                  "y": 180940.37,
+                  "alt": 1000,
+                  "speed": 300,
+                  "extra": "g01.11 2"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 107524.26,
+                  "y": 181252.82,
+                  "alt": 1000,
+                  "speed": 300,
+                  "extra": "g01.11 3"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 73376.04,
+                  "y": 134367.06,
+                  "alt": 1000,
+                  "speed": 300,
+                  "extra": "g01.11 4"
+                },
+                {
+                  "action": "LANDING",
+                  "x": 157175.77,
+                  "y": 58127.54,
+                  "alt": 500,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "g01.11",
+              "airGroupId": "g01.11",
+              "briefing": "g01.11",
+              "unit": "g01.11",
+              "side": "Luftwaffe",
+              "aircraft": "He-115B-2",
+              "rawAircraft": "He-115B-2",
+              "formation": "LINEABREAST",
+              "skill": "1 0.74 0.84 0.63 0.84 0.84 0.74 0.74",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 138957.81,
+                  "y": 64487.46,
+                  "alt": 500,
+                  "speed": 290,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 148743.33,
+                  "y": 64502.1,
+                  "alt": 500,
+                  "speed": 290,
+                  "extra": ""
+                },
+                {
+                  "action": "RECON",
+                  "x": 144778.58,
+                  "y": 181477.57,
+                  "alt": 500,
+                  "speed": 290,
+                  "extra": ""
+                },
+                {
+                  "action": "RECON",
+                  "x": 105543.66,
+                  "y": 181293.4,
+                  "alt": 500,
+                  "speed": 290,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 73761.22,
+                  "y": 133930.4,
+                  "alt": 500,
+                  "speed": 290,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 36800.32,
+                  "y": 74897.85,
+                  "alt": 250,
+                  "speed": 290,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 34720.92,
+                  "y": 72053.84,
+                  "alt": 250,
+                  "speed": 290,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_602Sqn_Early.01",
+              "airGroupId": "BoB_RAF_F_602Sqn_Early.01",
+              "briefing": "BoB_RAF_F_602Sqn_Early.01",
+              "unit": "BoB_RAF_F_602Sqn_Early.01",
+              "side": "RAF",
+              "aircraft": "SpitfireMkIa 100oct",
+              "rawAircraft": "SpitfireMkIa_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 101417.41,
+                  "y": 199784.22,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 137529.93,
+                  "y": 182853.46,
+                  "alt": 2133,
+                  "speed": 569.71,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 120456.66,
+                  "y": 183493.01,
+                  "alt": 2133,
+                  "speed": 569.71,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 99454.89,
+                  "y": 195028.84,
+                  "alt": 1066,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 101578.33,
+                  "y": 199602.28,
+                  "alt": 1066,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_LW_KG51_I.12",
+              "airGroupId": "BoB_LW_KG51_I.12",
+              "briefing": "BoB_LW_KG51_I.12",
+              "unit": "BoB_LW_KG51_I.12",
+              "side": "Luftwaffe",
+              "aircraft": "Ju-88A-1",
+              "rawAircraft": "Ju-88A-1",
+              "formation": "VIC3",
+              "skill": "1 0.74 0.84 0.63 0.84 0.84 0.74 0.74",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 153486.55,
+                  "y": 58883.68,
+                  "alt": 250,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 331439.35,
+                  "y": 26855.41,
+                  "alt": 250,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            }
+          ],
+          "slides": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "05.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 5\r\n\r\nThe mission yesterday was as nerve-wracking as expected. More than a few of our pilots needed a stiff drink when they finally got their feet back on solid ground. Otto even started smoking!\r\n\r\nIt's hard not to be jealous of the staffeln based around Calais, who only have to make a short hop across the Channel. I suspect that fatigue is going to be a far greater problem for us than it will be for them.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C05.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "images": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "05.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 5\r\n\r\nThe mission yesterday was as nerve-wracking as expected. More than a few of our pilots needed a stiff drink when they finally got their feet back on solid ground. Otto even started smoking!\r\n\r\nIt's hard not to be jealous of the staffeln based around Calais, who only have to make a short hop across the Channel. I suspect that fatigue is going to be a far greater problem for us than it will be for them.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C05.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "sourceFiles": [
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\05.briefing",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\05.mis",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\05.cs"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "1940-08-15",
+      "title": "Their Greatest Challenge — 1940-08-15",
+      "summary": "Date: 15/8/1940.\r\n\r\nTime: 0530 hours.\r\n\r\nWeather: medium clouds at 500m.\r\n\r\nWind speed: 3m/s from 49 degrees.\r\n\r\nSituation: large scale raids have been planned across Britain for today, both in the south and the north. We will fly freie jagd over England to divide the RAF's attention.\r\n\r\nMission: carry out a fighter sweep and engage RAF aircraft.\r\n\r\nExecution: fly at 6000m and 300km/h. Head to Southampton, then turn north-east to Aldershot. When there, continue east to Crowborough. Engage enemy aircraft if you have an advantageous position, but be aware that the RAF will most likely detect you with their RDF stations. Land at Le Havre Octeville.\r\n\r\nYour first priority is the protection of yo",
+      "weather": "Weather: medium clouds at 500m.\r\n\r\nWind speed: 3m/s from 49 degrees.\r\n\r\nSituation: large scale raids have been planned across Britain for today, both in the south and the north. We will fly freie jagd over England to divide the RAF's attention.\r\n\r\nMission: carry out a fighter sweep and engage RAF aircraft.\r\n\r\nExecution: fly at 6000m and 300km/h. Head to Southampton, then turn north-east to Aldershot. When there, continue east to Crowborough. Engage enemy aircraft if you have an advantageous position, but be aware that the RAF will most likely detect you with their RDF stations. Land at Le Havre Octevil",
+      "missions": [
+        {
+          "date": "1940-08-15",
+          "time": "0530",
+          "title": "Mission 6: Date: 15/8/1940",
+          "chapterTitle": "campaign03_2r",
+          "type": "Raid",
+          "briefing": "Date: 15/8/1940.\r\n\r\nTime: 0530 hours.\r\n\r\nWeather: medium clouds at 500m.\r\n\r\nWind speed: 3m/s from 49 degrees.\r\n\r\nSituation: large scale raids have been planned across Britain for today, both in the south and the north. We will fly freie jagd over England to divide the RAF's attention.\r\n\r\nMission: carry out a fighter sweep and engage RAF aircraft.\r\n\r\nExecution: fly at 6000m and 300km/h. Head to Southampton, then turn north-east to Aldershot. When there, continue east to Crowborough. Engage enemy aircraft if you have an advantageous position, but be aware that the RAF will most likely detect you with their RDF stations. Land at Le Havre Octeville.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is to destroy enemy aircraft.",
+          "weather": "Weather: medium clouds at 500m.\r\n\r\nWind speed: 3m/s from 49 degrees.\r\n\r\nSituation: large scale raids have been planned across Britain for today, both in the south and the north. We will fly freie jagd over England to divide the RAF's attention.\r\n\r\nMission: carry out a fighter sweep and engage RAF aircraft.\r\n\r\nExecution: fly at 6000m and 300km/h. Head to Southampton, then turn north-east to Aldershot. When there, continue east to Crowborough. Engage enemy aircraft if you have an advantageous position, but be aware that the RAF will most likely detect you with their RDF stations. Land at Le Havre Octevil",
+          "playable": [
+            {
+              "side": "Luftwaffe",
+              "unit": "JG2 I",
+              "id": "JG2 I",
+              "airGroupId": "BoB_LW_JG2_I.32",
+              "aircraft": "Bf 109E-4 Late",
+              "role": "Raid",
+              "description": "Date: 15/8/1940.\r\n\r\nTime: 0530 hours.\r\n\r\nWeather: medium clouds at 500m.\r\n\r\nWind speed: 3m/s from 49 degrees.\r\n\r\nSituation: large scale raids have been planned across Britain for today, both in the south and the north. We will fly freie jagd over England to divide the RAF's attention.\r\n\r\nMission: carry out a fighter sweep and engage RAF aircraft.\r\n\r\nExecution: fly at 6000m and 300km/h. Head to Southampton, then turn north-east to Aldershot. When there, continue east to Crowborough. Engage enemy aircraft if you have an advantageous position, but be aware that the RAF will most likely detect you with their RDF stations. Land at Le Havre Octeville.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is to destroy enemy aircraft."
+            }
+          ],
+          "routes": [
+            {
+              "id": "BoB_LW_JG2_I.32",
+              "airGroupId": "BoB_LW_JG2_I.32",
+              "briefing": "1",
+              "unit": "JG2 I",
+              "side": "Luftwaffe",
+              "aircraft": "Bf 109E-4 Late",
+              "rawAircraft": "Bf-109E-4_Late",
+              "formation": "FINGERFOUR",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 27779.98,
+                  "y": 72597.73,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 51620.43,
+                  "y": 207703.05,
+                  "alt": 6000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 97610.9,
+                  "y": 242592.97,
+                  "alt": 6000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 164897.78,
+                  "y": 224101.88,
+                  "alt": 6000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 159935.1,
+                  "y": 129729.02,
+                  "alt": 6000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 159360.2,
+                  "y": 121727.04,
+                  "alt": 6000,
+                  "speed": 200,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 159133.27,
+                  "y": 116467.58,
+                  "alt": 5500,
+                  "speed": 209,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 158906.34,
+                  "y": 111208.12,
+                  "alt": 5000,
+                  "speed": 218,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 158679.42,
+                  "y": 105948.65,
+                  "alt": 4500,
+                  "speed": 227,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 158452.49,
+                  "y": 100689.19,
+                  "alt": 4000,
+                  "speed": 236,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 158225.56,
+                  "y": 95429.72,
+                  "alt": 3500,
+                  "speed": 245,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 157998.64,
+                  "y": 90170.26,
+                  "alt": 3000,
+                  "speed": 255,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 157771.71,
+                  "y": 84910.8,
+                  "alt": 2500,
+                  "speed": 264,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 157544.79,
+                  "y": 79651.33,
+                  "alt": 2000,
+                  "speed": 273,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 157317.86,
+                  "y": 74391.87,
+                  "alt": 1500,
+                  "speed": 282,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 157090.93,
+                  "y": 69132.4,
+                  "alt": 1000,
+                  "speed": 291,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 156864.01,
+                  "y": 63872.94,
+                  "alt": 500,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 157248,
+                  "y": 57920.91,
+                  "alt": 3000,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_609Sqn_Early.03",
+              "airGroupId": "BoB_RAF_F_609Sqn_Early.03",
+              "briefing": "BoB_RAF_F_609Sqn_Early.03",
+              "unit": "BoB_RAF_F_609Sqn_Early.03",
+              "side": "RAF",
+              "aircraft": "SpitfireMkIa 100oct",
+              "rawAircraft": "SpitfireMkIa_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 45859.79,
+                  "y": 239142.37,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 81560.63,
+                  "y": 236821.88,
+                  "alt": 7620,
+                  "speed": 569.71,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 51106.6,
+                  "y": 213527.69,
+                  "alt": 7620,
+                  "speed": 569.71,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 51413.02,
+                  "y": 235380.29,
+                  "alt": 3810,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 45801.56,
+                  "y": 238932.4,
+                  "alt": 3810,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            }
+          ],
+          "slides": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "06.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 6\r\n\r\nWe had a depressing reminder of the danger the Channel poses yesterday. We went up to escort a Seenotdienst He 115 while they looked for a Do 17 crew that had ditched in the channel, but they found nothing.\r\n\r\nEvery day, more fatigue and anxiety creeps into the minds of the staffel. We've taken to calling it 'kanalkrankheit'. But despite that, we still have a job to do. For all my pessimism, I know that we have a better chance of winning this battle if we actually fight it. And the sooner we win this fight, the sooner the war will be over.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C06.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "images": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "06.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 6\r\n\r\nWe had a depressing reminder of the danger the Channel poses yesterday. We went up to escort a Seenotdienst He 115 while they looked for a Do 17 crew that had ditched in the channel, but they found nothing.\r\n\r\nEvery day, more fatigue and anxiety creeps into the minds of the staffel. We've taken to calling it 'kanalkrankheit'. But despite that, we still have a job to do. For all my pessimism, I know that we have a better chance of winning this battle if we actually fight it. And the sooner we win this fight, the sooner the war will be over.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C06.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "sourceFiles": [
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\06.briefing",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\06.mis",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\06.cs"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "1940-08-16",
+      "title": "Their Greatest Challenge — 1940-08-16",
+      "summary": "Date: 16/8/1940.\r\n\r\nTime: 1240 hours.\r\n\r\nWeather: clear.\r\n\r\nWind speed: 1m/s from 76 degrees.\r\n\r\nSituation: we have been ordered to escort Stukas of 5./StG 2 while they attack the British airfields at Tangmere and Westhampnett.\r\n\r\nMission: protect the Stukas from enemy aircraft.\r\n\r\nExecution: rendezvous with the Stukas west of Le Havre. \r\n5./StG 2 will be the rear formation of Stukas. Escort them at 3500m (500m above the Stukas) and 300km/h. Stay close to the Stukas at all times, and drive off any enemy fighters that approach them. When the Stukas are halfway across the Channel on their return journey, fly to Querqueville and land there.\r\n\r\nYour first priority is the protection of your own l",
+      "weather": "Weather: clear.\r\n\r\nWind speed: 1m/s from 76 degrees.\r\n\r\nSituation: we have been ordered to escort Stukas of 5./StG 2 while they attack the British airfields at Tangmere and Westhampnett.\r\n\r\nMission: protect the Stukas from enemy aircraft.\r\n\r\nExecution: rendezvous with the Stukas west of Le Havre. \r\n5./StG 2 will be the rear formation of Stukas. Escort them at 3500m (500m above the Stukas) and 300km/h. Stay close to the Stukas at all times, and drive off any enemy fighters that approach them. When the Stukas are halfway across the Channel on their return journey, fly to Querqueville and land there.\r\n\r\nY",
+      "missions": [
+        {
+          "date": "1940-08-16",
+          "time": "1240",
+          "title": "Mission 7: Date: 16/8/1940 · Escort",
+          "chapterTitle": "campaign03_2r",
+          "type": "Raid",
+          "briefing": "Date: 16/8/1940.\r\n\r\nTime: 1240 hours.\r\n\r\nWeather: clear.\r\n\r\nWind speed: 1m/s from 76 degrees.\r\n\r\nSituation: we have been ordered to escort Stukas of 5./StG 2 while they attack the British airfields at Tangmere and Westhampnett.\r\n\r\nMission: protect the Stukas from enemy aircraft.\r\n\r\nExecution: rendezvous with the Stukas west of Le Havre. \r\n5./StG 2 will be the rear formation of Stukas. Escort them at 3500m (500m above the Stukas) and 300km/h. Stay close to the Stukas at all times, and drive off any enemy fighters that approach them. When the Stukas are halfway across the Channel on their return journey, fly to Querqueville and land there.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is to protect the Stukas.",
+          "weather": "Weather: clear.\r\n\r\nWind speed: 1m/s from 76 degrees.\r\n\r\nSituation: we have been ordered to escort Stukas of 5./StG 2 while they attack the British airfields at Tangmere and Westhampnett.\r\n\r\nMission: protect the Stukas from enemy aircraft.\r\n\r\nExecution: rendezvous with the Stukas west of Le Havre. \r\n5./StG 2 will be the rear formation of Stukas. Escort them at 3500m (500m above the Stukas) and 300km/h. Stay close to the Stukas at all times, and drive off any enemy fighters that approach them. When the Stukas are halfway across the Channel on their return journey, fly to Querqueville and land there.\r\n\r\nY",
+          "playable": [
+            {
+              "side": "Luftwaffe",
+              "unit": "JG2 I",
+              "id": "JG2 I",
+              "airGroupId": "BoB_LW_JG2_I.36",
+              "aircraft": "Bf 109E-4 Late",
+              "role": "Raid",
+              "description": "Date: 16/8/1940.\r\n\r\nTime: 1240 hours.\r\n\r\nWeather: clear.\r\n\r\nWind speed: 1m/s from 76 degrees.\r\n\r\nSituation: we have been ordered to escort Stukas of 5./StG 2 while they attack the British airfields at Tangmere and Westhampnett.\r\n\r\nMission: protect the Stukas from enemy aircraft.\r\n\r\nExecution: rendezvous with the Stukas west of Le Havre. \r\n5./StG 2 will be the rear formation of Stukas. Escort them at 3500m (500m above the Stukas) and 300km/h. Stay close to the Stukas at all times, and drive off any enemy fighters that approach them. When the Stukas are halfway across the Channel on their return journey, fly to Querqueville and land there.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is to protect the Stukas."
+            }
+          ],
+          "routes": [
+            {
+              "id": "BoB_LW_JG2_I.36",
+              "airGroupId": "BoB_LW_JG2_I.36",
+              "briefing": "1",
+              "unit": "JG2 I",
+              "side": "Luftwaffe",
+              "aircraft": "Bf 109E-4 Late",
+              "rawAircraft": "Bf-109E-4_Late",
+              "formation": "FINGERFOUR",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 157187.03,
+                  "y": 57848.74,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 145263.59,
+                  "y": 62682.38,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG2_II.27 0"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 104116.35,
+                  "y": 199771.17,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG2_II.27 1"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 82213.86,
+                  "y": 132647.28,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG2_II.27 2"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 28064.78,
+                  "y": 78026.73,
+                  "alt": 1750,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 27620.47,
+                  "y": 72564.26,
+                  "alt": 1750,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_LW_StG2_II.27",
+              "airGroupId": "BoB_LW_StG2_II.27",
+              "briefing": "BoB_LW_StG2_II.27",
+              "unit": "BoB_LW_StG2_II.27",
+              "side": "Luftwaffe",
+              "aircraft": "Ju-87B-2",
+              "rawAircraft": "Ju-87B-2",
+              "formation": "VIC",
+              "skill": "1 0.74 0.84 0.63 0.84 0.84 0.74 0.74",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 151673.55,
+                  "y": 35990.01,
+                  "alt": 3000,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "GATTACK_TARG",
+                  "x": 104169.18,
+                  "y": 199363.55,
+                  "alt": 3000,
+                  "speed": 280,
+                  "extra": "57_Bld 0"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 82195.9,
+                  "y": 132550.21,
+                  "alt": 250,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 54438.91,
+                  "y": 50412.79,
+                  "alt": 250,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 52625.4,
+                  "y": 39724.64,
+                  "alt": 250,
+                  "speed": 280,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_43Sqn_Early.03",
+              "airGroupId": "BoB_RAF_F_43Sqn_Early.03",
+              "briefing": "BoB_RAF_F_43Sqn_Early.03",
+              "unit": "BoB_RAF_F_43Sqn_Early.03",
+              "side": "RAF",
+              "aircraft": "Hurricane Mk I 100oct",
+              "rawAircraft": "HurricaneMkI_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 105044.67,
+                  "y": 199569.82,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 45916.08,
+                  "y": 197463.04,
+                  "alt": 6000,
+                  "speed": 526,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 64392.2,
+                  "y": 174774.96,
+                  "alt": 6000,
+                  "speed": 526,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 119480.81,
+                  "y": 138756.21,
+                  "alt": 6000,
+                  "speed": 526,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 104653.51,
+                  "y": 199628.74,
+                  "alt": 3048,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_601Sqn_Early.03",
+              "airGroupId": "BoB_RAF_F_601Sqn_Early.03",
+              "briefing": "BoB_RAF_F_601Sqn_Early.03",
+              "unit": "BoB_RAF_F_601Sqn_Early.03",
+              "side": "RAF",
+              "aircraft": "Hurricane Mk I 100oct",
+              "rawAircraft": "HurricaneMkI_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 112823.7,
+                  "y": 196046.36,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 114963.71,
+                  "y": 212820.56,
+                  "alt": 6000,
+                  "speed": 526,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 173846.66,
+                  "y": 213794.37,
+                  "alt": 6000,
+                  "speed": 526,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 199073.82,
+                  "y": 195641.64,
+                  "alt": 6000,
+                  "speed": 526,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 113422,
+                  "y": 183300.71,
+                  "alt": 3962,
+                  "speed": 526.1,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 117974.41,
+                  "y": 155543.27,
+                  "alt": 6000,
+                  "speed": 526,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 107321.98,
+                  "y": 192601.03,
+                  "alt": 1981,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 112592.38,
+                  "y": 195725.34,
+                  "alt": 1000,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_LW_JG2_III.13",
+              "airGroupId": "BoB_LW_JG2_III.13",
+              "briefing": "BoB_LW_JG2_III.13",
+              "unit": "BoB_LW_JG2_III.13",
+              "side": "Luftwaffe",
+              "aircraft": "Bf 109E-4",
+              "rawAircraft": "Bf-109E-4",
+              "formation": "VIC",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "ESCORT",
+                  "x": 151774.63,
+                  "y": 36429.16,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG2_II.37 0"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 104155.21,
+                  "y": 200033.31,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG2_II.37 1"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 82244.48,
+                  "y": 132746.35,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG2_II.37 2"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 44519.35,
+                  "y": 78901.14,
+                  "alt": 1750,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 43839.72,
+                  "y": 70600.8,
+                  "alt": 1750,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_LW_StG2_II.37",
+              "airGroupId": "BoB_LW_StG2_II.37",
+              "briefing": "BoB_LW_StG2_II.37",
+              "unit": "BoB_LW_StG2_II.37",
+              "side": "Luftwaffe",
+              "aircraft": "Ju-87B-2",
+              "rawAircraft": "Ju-87B-2",
+              "formation": "VIC",
+              "skill": "1 0.74 0.84 0.63 0.84 0.84 0.74 0.74",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 151532.95,
+                  "y": 36475.32,
+                  "alt": 3000,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "GATTACK_TARG",
+                  "x": 104128.61,
+                  "y": 200122.66,
+                  "alt": 3000,
+                  "speed": 280,
+                  "extra": "42_Bld 0"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 82195.91,
+                  "y": 132550.24,
+                  "alt": 250,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 54524.39,
+                  "y": 50350.72,
+                  "alt": 250,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 52647.3,
+                  "y": 39643.5,
+                  "alt": 250,
+                  "speed": 280,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_LW_StG2_II.01",
+              "airGroupId": "BoB_LW_StG2_II.01",
+              "briefing": "BoB_LW_StG2_II.01",
+              "unit": "BoB_LW_StG2_II.01",
+              "side": "Luftwaffe",
+              "aircraft": "Ju-87B-2",
+              "rawAircraft": "Ju-87B-2",
+              "formation": "VIC",
+              "skill": "1 0.74 0.84 0.63 0.84 0.84 0.74 0.74",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 151672.48,
+                  "y": 35993.68,
+                  "alt": 3100,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "GATTACK_TARG",
+                  "x": 104206.69,
+                  "y": 200067.69,
+                  "alt": 3100,
+                  "speed": 280,
+                  "extra": "Static1589 0"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 82195.89,
+                  "y": 132550.22,
+                  "alt": 350,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 54468.08,
+                  "y": 50449.45,
+                  "alt": 350,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 52608.29,
+                  "y": 39802.13,
+                  "alt": 350,
+                  "speed": 280,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_LW_JG2_Stab.01",
+              "airGroupId": "BoB_LW_JG2_Stab.01",
+              "briefing": "BoB_LW_JG2_Stab.01",
+              "unit": "BoB_LW_JG2_Stab.01",
+              "side": "Luftwaffe",
+              "aircraft": "Bf 109E-4 Late",
+              "rawAircraft": "Bf-109E-4_Late",
+              "formation": "FINGERFOUR",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "ESCORT",
+                  "x": 151763.1,
+                  "y": 36068.79,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG2_II.01 0"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 104263.61,
+                  "y": 199974.96,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG2_II.01 1"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 82234.43,
+                  "y": 132527.62,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG2_II.01 2"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 28898.53,
+                  "y": 77758.72,
+                  "alt": 1750,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 27780.69,
+                  "y": 72552.39,
+                  "alt": 1750,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            }
+          ],
+          "slides": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "07.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 7\r\n\r\nBy all accounts, things didn't go too well for Luftflotte 5 yesterday. The staffel's morale hasn't been helped by the news.\r\n\r\nAnd now we have another long flight over the Channel ahead of us. How much longer can we keep doing this until we're overwhelmed by kanalkrankheit? \r\n\r\nNo, that's the wrong question to ask. We have to win this battle to bring the war to an end. We have to keep going until it's over.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C07.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "images": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "07.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 7\r\n\r\nBy all accounts, things didn't go too well for Luftflotte 5 yesterday. The staffel's morale hasn't been helped by the news.\r\n\r\nAnd now we have another long flight over the Channel ahead of us. How much longer can we keep doing this until we're overwhelmed by kanalkrankheit? \r\n\r\nNo, that's the wrong question to ask. We have to win this battle to bring the war to an end. We have to keep going until it's over.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C07.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "sourceFiles": [
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\07.briefing",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\07.mis",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\07.cs"
+          ]
+        },
+        {
+          "date": "1940-08-16",
+          "time": "1715",
+          "title": "Mission 8: Date: 16/8/1940 · Escort",
+          "chapterTitle": "campaign03_2r",
+          "type": "Raid",
+          "briefing": "Date: 16/8/1940.\r\n\r\nTime: 1715 hours.\r\n\r\nWeather: light clouds at 1300m.\r\n\r\nWind speed: 3m/s from 79 degrees.\r\n\r\nSituation: our staffel's escort duties for the day are finished. However, to maintain pressure on the RAF, we have been ordered to fly freie jagd sorties.\r\n\r\nMission: fly a fighter sweep over England and engage targets of opportunity.\r\n\r\nExecution: fly a sweep over Portsmouth, Brighton, and Eastbourne at 6000m and 300km/h. Only attack enemy aircraft if you are in an advantageous position. After reaching Eastbourne, land at Le Havre Octeville.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is the destruction of enemy aircraft.",
+          "weather": "Weather: light clouds at 1300m.\r\n\r\nWind speed: 3m/s from 79 degrees.\r\n\r\nSituation: our staffel's escort duties for the day are finished. However, to maintain pressure on the RAF, we have been ordered to fly freie jagd sorties.\r\n\r\nMission: fly a fighter sweep over England and engage targets of opportunity.\r\n\r\nExecution: fly a sweep over Portsmouth, Brighton, and Eastbourne at 6000m and 300km/h. Only attack enemy aircraft if you are in an advantageous position. After reaching Eastbourne, land at Le Havre Octeville.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priori",
+          "playable": [
+            {
+              "side": "Luftwaffe",
+              "unit": "JG2 I",
+              "id": "JG2 I",
+              "airGroupId": "BoB_LW_JG2_I.32",
+              "aircraft": "Bf 109E-4 Late",
+              "role": "Raid",
+              "description": "Date: 16/8/1940.\r\n\r\nTime: 1715 hours.\r\n\r\nWeather: light clouds at 1300m.\r\n\r\nWind speed: 3m/s from 79 degrees.\r\n\r\nSituation: our staffel's escort duties for the day are finished. However, to maintain pressure on the RAF, we have been ordered to fly freie jagd sorties.\r\n\r\nMission: fly a fighter sweep over England and engage targets of opportunity.\r\n\r\nExecution: fly a sweep over Portsmouth, Brighton, and Eastbourne at 6000m and 300km/h. Only attack enemy aircraft if you are in an advantageous position. After reaching Eastbourne, land at Le Havre Octeville.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is the destruction of enemy aircraft."
+            }
+          ],
+          "routes": [
+            {
+              "id": "BoB_LW_JG2_I.32",
+              "airGroupId": "BoB_LW_JG2_I.32",
+              "briefing": "1",
+              "unit": "JG2 I",
+              "side": "Luftwaffe",
+              "aircraft": "Bf 109E-4 Late",
+              "rawAircraft": "Bf-109E-4_Late",
+              "formation": "FINGERFOUR",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 27664.15,
+                  "y": 72542.38,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 79667.93,
+                  "y": 197547.82,
+                  "alt": 6000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 142584.78,
+                  "y": 196244.28,
+                  "alt": 6000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 176083.4,
+                  "y": 189578.21,
+                  "alt": 6000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 174061.63,
+                  "y": 178414.54,
+                  "alt": 6000,
+                  "speed": 200,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 172213.23,
+                  "y": 168142.01,
+                  "alt": 5500,
+                  "speed": 209,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 170364.83,
+                  "y": 157869.48,
+                  "alt": 5000,
+                  "speed": 218,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 168516.43,
+                  "y": 147596.95,
+                  "alt": 4500,
+                  "speed": 227,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 166668.03,
+                  "y": 137324.42,
+                  "alt": 4000,
+                  "speed": 236,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 164819.63,
+                  "y": 127051.88,
+                  "alt": 3500,
+                  "speed": 245,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 162971.23,
+                  "y": 116779.35,
+                  "alt": 3000,
+                  "speed": 255,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 161122.83,
+                  "y": 106506.82,
+                  "alt": 2500,
+                  "speed": 264,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 159274.43,
+                  "y": 96234.29,
+                  "alt": 2000,
+                  "speed": 273,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 157426.03,
+                  "y": 85961.75,
+                  "alt": 1500,
+                  "speed": 282,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 155577.63,
+                  "y": 75689.22,
+                  "alt": 1000,
+                  "speed": 291,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 153729.23,
+                  "y": 65416.69,
+                  "alt": 500,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 157467.32,
+                  "y": 57940.5,
+                  "alt": 3000,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_234Sqn_Early.03",
+              "airGroupId": "BoB_RAF_F_234Sqn_Early.03",
+              "briefing": "BoB_RAF_F_234Sqn_Early.03",
+              "unit": "BoB_RAF_F_234Sqn_Early.03",
+              "side": "RAF",
+              "aircraft": "SpitfireMkIa 100oct",
+              "rawAircraft": "SpitfireMkIa_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 46000.23,
+                  "y": 238627.58,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 112068.77,
+                  "y": 200232.83,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 79433.39,
+                  "y": 199266.56,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 72222.77,
+                  "y": 172399.62,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 78950.2,
+                  "y": 199668.41,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 111818.99,
+                  "y": 200954.2,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 78559.6,
+                  "y": 200288.62,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 71529.57,
+                  "y": 172630.68,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 78178.8,
+                  "y": 200835.84,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 111826.57,
+                  "y": 201681.06,
+                  "alt": 6096,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 56749.43,
+                  "y": 237916.24,
+                  "alt": 3048,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 46158.31,
+                  "y": 239101.81,
+                  "alt": 3048,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            }
+          ],
+          "slides": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "08.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 8\r\n\r\nToday bought us yet another long flight over the Channel. Fortunately, though, the Stukas' target of Tangmere was on the coast, and we didn't run into any Spitfires. That being said, the Hurricane is hardly a pushover, especially if they catch you at lower altitudes.\r\n\r\nBut the day isn't over yet. We have yet another flight across the Channel ahead of us, though thankfully we won't be stuck escorting Stukas this time. That being said, I'll still be glad when I get back to base.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C08.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "images": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "08.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 8\r\n\r\nToday bought us yet another long flight over the Channel. Fortunately, though, the Stukas' target of Tangmere was on the coast, and we didn't run into any Spitfires. That being said, the Hurricane is hardly a pushover, especially if they catch you at lower altitudes.\r\n\r\nBut the day isn't over yet. We have yet another flight across the Channel ahead of us, though thankfully we won't be stuck escorting Stukas this time. That being said, I'll still be glad when I get back to base.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C08.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "sourceFiles": [
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\08.briefing",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\08.mis",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\08.cs"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "1940-08-17",
+      "title": "Their Greatest Challenge — 1940-08-17",
+      "summary": "Date: 17/8/1940.\r\n\r\nTime: 1937 hours.\r\n\r\nWeather: clear.\r\n\r\nWind speed: 1m/s from 77 degrees.\r\n\r\nSituation: the intensity of operations over the last week have taken a toll on our aircraft and aircrews, and we have been ordered to stand down for today. However, enemy aircraft have been detected heading for Le Havre at 4000m. It is unclear if they are targeting the airfield or the port, but both must be protected.\r\n\r\nMission: scramble and intercept the enemy aircraft.\r\n\r\nExecution: climb to 6000m at full speed to the north-west. Engage the enemy  as soon as you see them, and force them to turn back.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority i",
+      "weather": "Weather: clear.\r\n\r\nWind speed: 1m/s from 77 degrees.\r\n\r\nSituation: the intensity of operations over the last week have taken a toll on our aircraft and aircrews, and we have been ordered to stand down for today. However, enemy aircraft have been detected heading for Le Havre at 4000m. It is unclear if they are targeting the airfield or the port, but both must be protected.\r\n\r\nMission: scramble and intercept the enemy aircraft.\r\n\r\nExecution: climb to 6000m at full speed to the north-west. Engage the enemy  as soon as you see them, and force them to turn back.\r\n\r\nYour first priority is the protection of",
+      "missions": [
+        {
+          "date": "1940-08-17",
+          "time": "1937",
+          "title": "Mission 9: Date: 17/8/1940 · Interceptor Scramble",
+          "chapterTitle": "campaign03_2r",
+          "type": "Convoy Battle",
+          "briefing": "Date: 17/8/1940.\r\n\r\nTime: 1937 hours.\r\n\r\nWeather: clear.\r\n\r\nWind speed: 1m/s from 77 degrees.\r\n\r\nSituation: the intensity of operations over the last week have taken a toll on our aircraft and aircrews, and we have been ordered to stand down for today. However, enemy aircraft have been detected heading for Le Havre at 4000m. It is unclear if they are targeting the airfield or the port, but both must be protected.\r\n\r\nMission: scramble and intercept the enemy aircraft.\r\n\r\nExecution: climb to 6000m at full speed to the north-west. Engage the enemy  as soon as you see them, and force them to turn back.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is to protect Le Havre Octeville airfield and Le Havre harbour.",
+          "weather": "Weather: clear.\r\n\r\nWind speed: 1m/s from 77 degrees.\r\n\r\nSituation: the intensity of operations over the last week have taken a toll on our aircraft and aircrews, and we have been ordered to stand down for today. However, enemy aircraft have been detected heading for Le Havre at 4000m. It is unclear if they are targeting the airfield or the port, but both must be protected.\r\n\r\nMission: scramble and intercept the enemy aircraft.\r\n\r\nExecution: climb to 6000m at full speed to the north-west. Engage the enemy  as soon as you see them, and force them to turn back.\r\n\r\nYour first priority is the protection of",
+          "playable": [
+            {
+              "side": "Luftwaffe",
+              "unit": "JG2 I",
+              "id": "JG2 I",
+              "airGroupId": "BoB_LW_JG2_I.32",
+              "aircraft": "Bf 109E-4 Late",
+              "role": "Convoy Battle",
+              "description": "Date: 17/8/1940.\r\n\r\nTime: 1937 hours.\r\n\r\nWeather: clear.\r\n\r\nWind speed: 1m/s from 77 degrees.\r\n\r\nSituation: the intensity of operations over the last week have taken a toll on our aircraft and aircrews, and we have been ordered to stand down for today. However, enemy aircraft have been detected heading for Le Havre at 4000m. It is unclear if they are targeting the airfield or the port, but both must be protected.\r\n\r\nMission: scramble and intercept the enemy aircraft.\r\n\r\nExecution: climb to 6000m at full speed to the north-west. Engage the enemy  as soon as you see them, and force them to turn back.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is to protect Le Havre Octeville airfield and Le Havre harbour."
+            }
+          ],
+          "routes": [
+            {
+              "id": "BoB_LW_JG2_I.32",
+              "airGroupId": "BoB_LW_JG2_I.32",
+              "briefing": "1",
+              "unit": "JG2 I",
+              "side": "Luftwaffe",
+              "aircraft": "Bf 109E-4 Late",
+              "rawAircraft": "Bf-109E-4_Late",
+              "formation": "FINGERFOUR",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 157214.32,
+                  "y": 57920.91,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_BOMBERS",
+                  "x": 117229.56,
+                  "y": 74813.42,
+                  "alt": 6000,
+                  "speed": 569.1,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 154383.92,
+                  "y": 53615.44,
+                  "alt": 3000,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 157151.42,
+                  "y": 58450.23,
+                  "alt": 3000,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "gb02.03",
+              "airGroupId": "gb02.03",
+              "briefing": "gb02.03",
+              "unit": "gb02.03",
+              "side": "RAF",
+              "aircraft": "Blenheim Mk IV",
+              "rawAircraft": "BlenheimMkIV",
+              "formation": "VIC",
+              "skill": "1 0.74 0.84 0.63 0.84 0.84 0.74 0.74",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 114763.81,
+                  "y": 73593.96,
+                  "alt": 3962,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "GATTACK_TARG",
+                  "x": 158688.29,
+                  "y": 51466.68,
+                  "alt": 3962,
+                  "speed": 306,
+                  "extra": "Static891 0"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 110762.8,
+                  "y": 68020.79,
+                  "alt": 3962,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 89283.31,
+                  "y": 185040.43,
+                  "alt": 1981,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 89645.13,
+                  "y": 196063.59,
+                  "alt": 1981,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            }
+          ],
+          "slides": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "09.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 9\r\n\r\nNo attacks have been ordered for today, thankfully. I guess that Fat Hermann finally realised that we need to rest if our aircrew and aircraft are going to perform at their best. I doubt anyone will miss flying over the Channel for a day, unless they're that desperate for a Knight's Cross.\r\n\r\nOf course, this means that the RAF also has a day to rest and recover. We have to break them soon, before we're forced to rest again.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C09.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "images": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "09.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 9\r\n\r\nNo attacks have been ordered for today, thankfully. I guess that Fat Hermann finally realised that we need to rest if our aircrew and aircraft are going to perform at their best. I doubt anyone will miss flying over the Channel for a day, unless they're that desperate for a Knight's Cross.\r\n\r\nOf course, this means that the RAF also has a day to rest and recover. We have to break them soon, before we're forced to rest again.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C09.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "sourceFiles": [
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\09.briefing",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\09.mis",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\09.cs"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "1940-08-18",
+      "title": "Their Greatest Challenge — 1940-08-18",
+      "summary": "Date: 18/8/1940.\r\n\r\nTime: 1400 hours.\r\n\r\nWeather: light clouds at 1300m.\r\n\r\nWind speed: 1m/s from 38 degrees.\r\n\r\nSituation: with our aircraft in France repaired and readied for combat yesterday, we have been ordered to resume offensive operations against English airfields.\r\n\r\nMission: escort Stukas of 2./StG 77 as they attack the RAF airfield at Thorney Island.\r\n\r\nExecution: take off and rendezvous with 2./StG 77 west of Le Havre. They will be the lead formation of Stukas. The Stukas will break into two formations south of Selsey, and 2./StG 77 will continue north-west to Thorney Island. Escort them at a height of 3500m. Drive off any enemy fighters that approach them, but do not get caught ",
+      "weather": "Weather: light clouds at 1300m.\r\n\r\nWind speed: 1m/s from 38 degrees.\r\n\r\nSituation: with our aircraft in France repaired and readied for combat yesterday, we have been ordered to resume offensive operations against English airfields.\r\n\r\nMission: escort Stukas of 2./StG 77 as they attack the RAF airfield at Thorney Island.\r\n\r\nExecution: take off and rendezvous with 2./StG 77 west of Le Havre. They will be the lead formation of Stukas. The Stukas will break into two formations south of Selsey, and 2./StG 77 will continue north-west to Thorney Island. Escort them at a height of 3500m. Drive off any enemy f",
+      "missions": [
+        {
+          "date": "1940-08-18",
+          "time": "1400",
+          "title": "Mission 10: Date: 18/8/1940 · Escort",
+          "chapterTitle": "campaign03_2r",
+          "type": "Raid",
+          "briefing": "Date: 18/8/1940.\r\n\r\nTime: 1400 hours.\r\n\r\nWeather: light clouds at 1300m.\r\n\r\nWind speed: 1m/s from 38 degrees.\r\n\r\nSituation: with our aircraft in France repaired and readied for combat yesterday, we have been ordered to resume offensive operations against English airfields.\r\n\r\nMission: escort Stukas of 2./StG 77 as they attack the RAF airfield at Thorney Island.\r\n\r\nExecution: take off and rendezvous with 2./StG 77 west of Le Havre. They will be the lead formation of Stukas. The Stukas will break into two formations south of Selsey, and 2./StG 77 will continue north-west to Thorney Island. Escort them at a height of 3500m. Drive off any enemy fighters that approach them, but do not get caught up in dogfights - stay as close as possible to the Stukas at all times. When they are halfway back across the Channel, head to Querqueville and land there.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is to protect the Stukas.",
+          "weather": "Weather: light clouds at 1300m.\r\n\r\nWind speed: 1m/s from 38 degrees.\r\n\r\nSituation: with our aircraft in France repaired and readied for combat yesterday, we have been ordered to resume offensive operations against English airfields.\r\n\r\nMission: escort Stukas of 2./StG 77 as they attack the RAF airfield at Thorney Island.\r\n\r\nExecution: take off and rendezvous with 2./StG 77 west of Le Havre. They will be the lead formation of Stukas. The Stukas will break into two formations south of Selsey, and 2./StG 77 will continue north-west to Thorney Island. Escort them at a height of 3500m. Drive off any enemy f",
+          "playable": [
+            {
+              "side": "Luftwaffe",
+              "unit": "JG2 I",
+              "id": "JG2 I",
+              "airGroupId": "BoB_LW_JG2_I.36",
+              "aircraft": "Bf 109E-4 Late",
+              "role": "Raid",
+              "description": "Date: 18/8/1940.\r\n\r\nTime: 1400 hours.\r\n\r\nWeather: light clouds at 1300m.\r\n\r\nWind speed: 1m/s from 38 degrees.\r\n\r\nSituation: with our aircraft in France repaired and readied for combat yesterday, we have been ordered to resume offensive operations against English airfields.\r\n\r\nMission: escort Stukas of 2./StG 77 as they attack the RAF airfield at Thorney Island.\r\n\r\nExecution: take off and rendezvous with 2./StG 77 west of Le Havre. They will be the lead formation of Stukas. The Stukas will break into two formations south of Selsey, and 2./StG 77 will continue north-west to Thorney Island. Escort them at a height of 3500m. Drive off any enemy fighters that approach them, but do not get caught up in dogfights - stay as close as possible to the Stukas at all times. When they are halfway back across the Channel, head to Querqueville and land there.\r\n\r\nYour first priority is the protection of your own life and aircraft. Your second priority is to protect the lives and aircraft of your fellow pilots. Your third priority is to protect the Stukas."
+            }
+          ],
+          "routes": [
+            {
+              "id": "BoB_LW_JG2_I.36",
+              "airGroupId": "BoB_LW_JG2_I.36",
+              "briefing": "1",
+              "unit": "JG2 I",
+              "side": "Luftwaffe",
+              "aircraft": "Bf 109E-4 Late",
+              "rawAircraft": "Bf-109E-4_Late",
+              "formation": "FINGERFOUR",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 157214.32,
+                  "y": 57920.91,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 142898.28,
+                  "y": 58233.4,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG77_I.27 1"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 88928.58,
+                  "y": 196148.82,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG77_I.27 2"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 89397.9,
+                  "y": 132456.22,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG77_I.27 3"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 31184.91,
+                  "y": 76157.63,
+                  "alt": 500,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 27834.04,
+                  "y": 72687.85,
+                  "alt": 500,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_LW_StG77_I.27",
+              "airGroupId": "BoB_LW_StG77_I.27",
+              "briefing": "BoB_LW_StG77_I.27",
+              "unit": "BoB_LW_StG77_I.27",
+              "side": "Luftwaffe",
+              "aircraft": "Ju-87B-2",
+              "rawAircraft": "Ju-87B-2",
+              "formation": "VIC",
+              "skill": "1 0.74 0.84 0.63 0.84 0.84 0.74 0.74",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 123071.55,
+                  "y": 46213.08,
+                  "alt": 3000,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 142800.23,
+                  "y": 58207.1,
+                  "alt": 3000,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "GATTACK_TARG",
+                  "x": 89297.02,
+                  "y": 196380.03,
+                  "alt": 3000,
+                  "speed": 280,
+                  "extra": "Static2562 0"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 89280,
+                  "y": 132485.65,
+                  "alt": 250,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 104456.39,
+                  "y": 44305.72,
+                  "alt": 250,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 111200.69,
+                  "y": 33847.93,
+                  "alt": 250,
+                  "speed": 280,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_LW_StG77_II.17",
+              "airGroupId": "BoB_LW_StG77_II.17",
+              "briefing": "BoB_LW_StG77_II.17",
+              "unit": "BoB_LW_StG77_II.17",
+              "side": "Luftwaffe",
+              "aircraft": "Ju-87B-2",
+              "rawAircraft": "Ju-87B-2",
+              "formation": "VIC",
+              "skill": "1 0.74 0.84 0.63 0.84 0.84 0.74 0.74",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 121608.06,
+                  "y": 45344.27,
+                  "alt": 3000,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 142800.67,
+                  "y": 58187.67,
+                  "alt": 3000,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 99888.33,
+                  "y": 168126.93,
+                  "alt": 3000,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "GATTACK_TARG",
+                  "x": 112324.58,
+                  "y": 196626.11,
+                  "alt": 3000,
+                  "speed": 280,
+                  "extra": "Static3314 0"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 113431.66,
+                  "y": 136244.25,
+                  "alt": 250,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 111706.46,
+                  "y": 43147.81,
+                  "alt": 250,
+                  "speed": 280,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 111422.52,
+                  "y": 33558.04,
+                  "alt": 250,
+                  "speed": 280,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_LW_JG27_I.33",
+              "airGroupId": "BoB_LW_JG27_I.33",
+              "briefing": "BoB_LW_JG27_I.33",
+              "unit": "BoB_LW_JG27_I.33",
+              "side": "Luftwaffe",
+              "aircraft": "Bf 109E-4 Late",
+              "rawAircraft": "Bf-109E-4_Late",
+              "formation": "FINGERFOUR",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 123962.24,
+                  "y": 44597.53,
+                  "alt": 2596,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 122818.26,
+                  "y": 45835.71,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG77_II.17 0"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 142853.54,
+                  "y": 58090.56,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG77_II.17 1"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 99857.26,
+                  "y": 168104.34,
+                  "alt": 3000,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG77_II.17 2"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 112566.61,
+                  "y": 195864.04,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG77_II.17 3"
+                },
+                {
+                  "action": "ESCORT",
+                  "x": 114040.44,
+                  "y": 136755.11,
+                  "alt": 3500,
+                  "speed": 300,
+                  "extra": "BoB_LW_StG77_II.17 4"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 119071.27,
+                  "y": 39822.72,
+                  "alt": 1750,
+                  "speed": 300,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 124363.32,
+                  "y": 28841.71,
+                  "alt": 1750,
+                  "speed": 300,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_43Sqn_Early.03",
+              "airGroupId": "BoB_RAF_F_43Sqn_Early.03",
+              "briefing": "BoB_RAF_F_43Sqn_Early.03",
+              "unit": "BoB_RAF_F_43Sqn_Early.03",
+              "side": "RAF",
+              "aircraft": "Hurricane Mk I 100oct",
+              "rawAircraft": "HurricaneMkI_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 104564.73,
+                  "y": 199221.8,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_BOMBERS",
+                  "x": 105169.52,
+                  "y": 137480.57,
+                  "alt": 6096,
+                  "speed": 526.1,
+                  "extra": "BoB_LW_StG77_I.27 2"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 102002.73,
+                  "y": 195256.26,
+                  "alt": 3048,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 104382.32,
+                  "y": 199425.52,
+                  "alt": 3048,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_152Sqn_Early.03",
+              "airGroupId": "BoB_RAF_F_152Sqn_Early.03",
+              "briefing": "BoB_RAF_F_152Sqn_Early.03",
+              "unit": "BoB_RAF_F_152Sqn_Early.03",
+              "side": "RAF",
+              "aircraft": "SpitfireMkIa 100oct",
+              "rawAircraft": "SpitfireMkIa_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "NORMFLY",
+                  "x": 65993.14,
+                  "y": 202863.79,
+                  "alt": 5587,
+                  "speed": 569.71,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 95495.83,
+                  "y": 194104.09,
+                  "alt": 6096,
+                  "speed": 569.71,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 98578.55,
+                  "y": 136587.14,
+                  "alt": 6096,
+                  "speed": 569.71,
+                  "extra": "BoB_LW_JG2_I.36 2"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 112067.45,
+                  "y": 194806.18,
+                  "alt": 5587,
+                  "speed": 526,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 104595.83,
+                  "y": 199850.02,
+                  "alt": 5587,
+                  "speed": 526,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_235Sqn_Late.02",
+              "airGroupId": "BoB_RAF_F_235Sqn_Late.02",
+              "briefing": "BoB_RAF_F_235Sqn_Late.02",
+              "unit": "BoB_RAF_F_235Sqn_Late.02",
+              "side": "RAF",
+              "aircraft": "BlenheimMkIVF",
+              "rawAircraft": "BlenheimMkIVF",
+              "formation": "VIC",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 89487.73,
+                  "y": 196175.87,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_BOMBERS",
+                  "x": 98491.05,
+                  "y": 170277.95,
+                  "alt": 3048,
+                  "speed": 439.35,
+                  "extra": ""
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 96364.12,
+                  "y": 193346.08,
+                  "alt": 1524,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 89574.34,
+                  "y": 196061.99,
+                  "alt": 1524,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_601Sqn_Early.03",
+              "airGroupId": "BoB_RAF_F_601Sqn_Early.03",
+              "briefing": "BoB_RAF_F_601Sqn_Early.03",
+              "unit": "BoB_RAF_F_601Sqn_Early.03",
+              "side": "RAF",
+              "aircraft": "Hurricane Mk I 100oct",
+              "rawAircraft": "HurricaneMkI_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 104629.09,
+                  "y": 199358.34,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_BOMBERS",
+                  "x": 108090.88,
+                  "y": 137144.97,
+                  "alt": 6096,
+                  "speed": 526.1,
+                  "extra": "BoB_LW_StG77_II.17 2"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 103188.93,
+                  "y": 195320.02,
+                  "alt": 3048,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 104560.76,
+                  "y": 199267.53,
+                  "alt": 3048,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            },
+            {
+              "id": "BoB_RAF_F_602Sqn_Early.13",
+              "airGroupId": "BoB_RAF_F_602Sqn_Early.13",
+              "briefing": "BoB_RAF_F_602Sqn_Early.13",
+              "unit": "BoB_RAF_F_602Sqn_Early.13",
+              "side": "RAF",
+              "aircraft": "SpitfireMkIa 100oct",
+              "rawAircraft": "SpitfireMkIa_100oct",
+              "formation": "VIC3",
+              "skill": "",
+              "waypoints": [
+                {
+                  "action": "TAKEOFF",
+                  "x": 101422.82,
+                  "y": 199824.62,
+                  "alt": 0,
+                  "speed": 0,
+                  "extra": ""
+                },
+                {
+                  "action": "AATTACK_FIGHTERS",
+                  "x": 102649.45,
+                  "y": 137328.33,
+                  "alt": 6096,
+                  "speed": 569,
+                  "extra": "BoB_LW_JG27_I.33 3"
+                },
+                {
+                  "action": "NORMFLY",
+                  "x": 98557.68,
+                  "y": 196187.44,
+                  "alt": 3048,
+                  "speed": 306,
+                  "extra": ""
+                },
+                {
+                  "action": "LANDING",
+                  "x": 101339.02,
+                  "y": 199655.94,
+                  "alt": 3048,
+                  "speed": 306,
+                  "extra": ""
+                }
+              ]
+            }
+          ],
+          "slides": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "10.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 10 \r\n\r\nYesterday was less restful than we'd expected. A formation of Blenheims attacked the invasion barges at Le Havre in the evening, and we, of course, had to scramble and try to force them away. Thankfully, Blenheims aren't very well armed - all they have is one fixed machine gun in the wing and another in a dorsal turret, so all we have to do is attack from below.\r\n\r\nThere's no resting today, though. We're escorting Stukas to attack an airfield at Thorney Island, and there's no doubt that the RAF will be waiting for us. After all, their fighters were able to rest as well yesterday.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C10.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "images": [
+            {
+              "section": "1",
+              "sectionName": "Intro",
+              "filename": "10.jpg",
+              "caption": "3./JG 2 Campaign\r\nMission 10 \r\n\r\nYesterday was less restful than we'd expected. A formation of Blenheims attacked the invasion barges at Le Havre in the evening, and we, of course, had to scramble and try to force them away. Thankfully, Blenheims aren't very well armed - all they have is one fixed machine gun in the wing and another in a dorsal turret, so all we have to do is attack from below.\r\n\r\nThere's no resting today, though. We're escorting Stukas to attack an airfield at Thorney Island, and there's no doubt that the RAF will be waiting for us. After all, their fighters were able to rest as well yesterday.",
+              "title": "Intro",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5C10.jpg"
+            },
+            {
+              "section": "2",
+              "sectionName": "Success",
+              "filename": "CampaignEndE4.jpg",
+              "caption": "",
+              "title": "Success",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignEndE4.jpg"
+            },
+            {
+              "section": "3",
+              "sectionName": "Failure",
+              "filename": "CampaignDeathE4.jpg",
+              "caption": "",
+              "title": "Failure",
+              "src": "/api/asset?path=G%3A%5CSteamLibrary%5Csteamapps%5Ccommon%5CIL-2%20Sturmovik%20Cliffs%20of%20Dover%20Blitz%5Cparts%5Cbob%5Cmission%5Ccampaign%5Ccampaign03_2r%5CCampaignDeathE4.jpg"
+            }
+          ],
+          "sourceFiles": [
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\10.briefing",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\10.mis",
+            "G:\\SteamLibrary\\steamapps\\common\\IL-2 Sturmovik Cliffs of Dover Blitz\\parts\\bob\\mission\\campaign\\campaign03_2r\\10.cs"
+          ]
+        }
+      ]
+    }
+  ]
+}
