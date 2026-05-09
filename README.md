@@ -1,20 +1,20 @@
-# Cliffs Campaign Board
+# IL-2 Cliffs of Dover - Campaign Board
 
 ## What This Is
 
-IL-2 Sturmovik: Cliffs of Dover has a built-in campaign system, but it was never designed for the kind of large-scale, historically-structured mission packs that the community has produced. ATAG_Lenny's Battle of Britain mission set is a good example: dozens of individual `.mis` files, one per time slot across multiple days, flyable from both RAF and Luftwaffe perspectives. They don't plug into the game's campaign engine. They're just files — but they contain a remarkable amount of structured data.
+IL-2 Sturmovik: Cliffs of Dover has a built-in campaign system, but it wasn't designed for the kind of large-scale, historically-structured mission packs. ATAG_Lenny's Battle of Britain mission set is a good example: dozens of individual `.mis` files, one per time slot across multiple days, flyable from both RAF and Luftwaffe perspectives. They don't plug into the game's campaign engine and the standard Single Mission browser makes its very difficult to categorise and filter. 
 
-The Cliffs Campaign Board reads that data and builds something the game itself doesn't provide: a mission browser that organises those flights by date and time, shows you what's available for each side, displays the briefing, draws the routes on a map, and helps you find the sortie you want to fly.
+The IL2 Cliffs of Dover - Campaign Board reads the mission/briefing data and builds something the game itself doesn't provide: a mission browser that organises those flights by date and time, shows you what's available for each side, displays the briefing, draws the routes on a map, and helps you find the sortie you want to fly.
 
-The original use case was ATAG_Lenny's Battle of Britain mission pack. It was later extended to cover his Operation Jubilee pack (a single-day Dieppe raid with multiple time slots), North Africa / Tobruk missions with Italian Regia Aeronautica participation, and the stock CloD campaign format. The browser adapts its layout depending on the mission pack: BoB is browsed day-by-day across a full season; Jubilee can be displayed either as a single day or broken out by time slot.
+The original use case was ATAG_Lenny's Battle of Britain mission pack. It was later extended to cover his Operation Jubilee pack (a single-day Dieppe raid with multiple time slots), North Africa / Tobruk missions with Italian Regia Aeronautica participation, and the stock CloD campaign format. The browser can be adapted depending on the mission pack: BoB is browsed day-by-day across a full season; Jubilee can be displayed either as a single day or broken out by time slot.
 
 ![Campaign overview — timeline, day summary, and mission list](docs/mainscreen1.png)
 
 ### The Core Problem It Solves
 
-Finding the right mission in CloD's own mission selector is painful. You know you want to fly a Bf 109E-3 scramble out of Calais-Marck on the morning of 15th August 1940 — but the game gives you a flat list of filenames. The Campaign Board gives you a timeline, a map, a briefing, and a list of available roles. You pick the sortie, then load the corresponding file in the game.
+Finding the right mission in CloD's own mission selector is painful. You know you want to fly a Bf 109E-3 scramble out of Calais-Marck on the morning of 15th August 1940 - but the game gives you a flat list of filenames. The Campaign Board gives you a timeline, a map, a briefing, and a list of available roles. You pick the sortie, then load the corresponding file in the game.
 
-Beyond browsing, the app also exposes a plane loadout panel where pilots can configure weapon sets, ammunition belts, and gun convergence before committing to a sortie — information that can then be manually applied in-game.
+Beyond browsing, the app also exposes a plane loadout panel (only temporary placeholder currently) where pilots can configure weapon sets, ammunition belts, and gun convergence before committing to a sortie — information that can then be manually applied in-game.
 
 ![Plane loadout — weapon sets, convergence, and ammunition selection](docs/planeloadout.png)
 
