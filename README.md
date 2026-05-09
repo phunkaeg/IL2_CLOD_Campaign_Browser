@@ -28,7 +28,7 @@ Main Menu 3
 Pilot Log
 ![Pilot Log](docs/pilotlog.png)
 
-Plane Loadout
+Plane Loadout - just conceptual
 ![Plane Loadout](docs/planeloadout.png)
 ## First-time setup
 
