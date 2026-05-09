@@ -15,7 +15,11 @@ This build is a local companion prototype for IL-2 Sturmovik: Cliffs of Dover / 
 - Pilot log path uses generic `CampaignBoard` naming.
 - Command file is `selected-mission.cmd`.
 - Map selection is automatic by theatre; campaign images are referenced from their original folders.
-
+![Main menu 1](docs/mainscreen1.png)
+![Main menu 2](docs/mainscreen2.png)
+![Main menu 3](docs/mainscreen3.png)
+![Pilot Log](docs/pilotlog.png)
+![Plane Loadout](docs/planeloadout.png)
 ## First-time setup
 
 ```powershell
